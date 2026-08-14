@@ -55,10 +55,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T15:35:44Z",
+            "last_commit": "2026-08-14T16:01:27Z",
             "owner": "aws-cloudformation",
             "repo": "cfn-lint",
-            "stars": 2638
+            "stars": 2639
           }
         },
         {
@@ -167,7 +167,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T08:34:13Z",
+            "last_commit": "2026-08-14T08:28:10Z",
             "owner": "aws-cloudformation",
             "repo": "cfn-lint-visual-studio-code",
             "stars": 290
@@ -291,10 +291,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T15:48:14Z",
+            "last_commit": "2026-08-14T16:01:28Z",
             "owner": "aws",
             "repo": "aws-cdk",
-            "stars": 12866
+            "stars": 12868
           }
         },
         {
@@ -305,10 +305,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T23:29:20Z",
+            "last_commit": "2026-08-13T23:16:54Z",
             "owner": "aws",
             "repo": "serverless-application-model",
-            "stars": 9563
+            "stars": 9564
           }
         },
         {
@@ -319,10 +319,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T04:35:37Z",
+            "last_commit": "2026-08-13T23:23:11Z",
             "owner": "eksctl-io",
             "repo": "eksctl",
-            "stars": 5212
+            "stars": 5211
           }
         },
         {
@@ -333,7 +333,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-07T14:02:56Z",
+            "last_commit": "2026-08-14T14:05:49Z",
             "owner": "cloudtools",
             "repo": "troposphere",
             "stars": 4945
@@ -350,7 +350,7 @@
             "last_commit": "2025-12-24T00:22:40Z",
             "owner": "architect",
             "repo": "architect",
-            "stars": 2621
+            "stars": 2622
           }
         },
         {
@@ -403,7 +403,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-07T11:53:24Z",
+            "last_commit": "2026-08-14T11:52:59Z",
             "owner": "towardsthecloud",
             "repo": "vscode-cloudformation-snippets",
             "stars": 29
@@ -662,7 +662,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T16:12:20.101Z",
+    "last_updated": "2026-08-14T16:08:07.356Z",
     "original_repository": "aws-cloudformation/awesome-cloudformation",
     "original_repository_sha": "afebea2cd423625b11c7795fd9edf3c343ad386a",
     "enhanced_repository": "enhansome/enhansome-cloudformation",
