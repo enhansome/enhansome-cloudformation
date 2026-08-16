@@ -24,7 +24,7 @@
             "last_commit": "2026-07-28T15:21:08Z",
             "owner": "aws-cloudformation",
             "repo": "aws-cloudformation-templates",
-            "stars": 5201
+            "stars": 5202
           }
         },
         {
@@ -204,7 +204,7 @@
             "last_commit": "2026-07-29T18:46:23Z",
             "owner": "aws-cloudformation",
             "repo": "rain",
-            "stars": 951
+            "stars": 950
           }
         },
         {
@@ -662,7 +662,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T15:38:22.840Z",
+    "last_updated": "2026-08-16T15:40:19.619Z",
     "original_repository": "aws-cloudformation/awesome-cloudformation",
     "original_repository_sha": "afebea2cd423625b11c7795fd9edf3c343ad386a",
     "enhanced_repository": "enhansome/enhansome-cloudformation",

@@ -35,7 +35,7 @@ The following are pre-built CloudFormation Samples demonstrating how to use AWS 
 
 ### Templates
 
-* [aws-cloudformation-templates](https://github.com/awslabs/aws-cloudformation-templates) ⭐ 5,201 | 🐛 5 | 🌐 Python | 📅 2026-07-28: Sample AWS CloudFormation templates which are intended to support learning how to declare specific AWS resources or solve particular use cases.
+* [aws-cloudformation-templates](https://github.com/awslabs/aws-cloudformation-templates) ⭐ 5,202 | 🐛 5 | 🌐 Python | 📅 2026-07-28: Sample AWS CloudFormation templates which are intended to support learning how to declare specific AWS resources or solve particular use cases.
 * [aws-cf-templates](https://github.com/widdix/aws-cf-templates) ⭐ 2,775 | 🐛 26 | 🌐 Java | 📅 2026-03-04: Free Templates for AWS CloudFormation
 * [aws-quickstart](https://github.com/aws-quickstart): Automated gold-standard deployments on AWS
 * [asecure.cloud](https://asecure.cloud/): A free repository of customizable AWS security configurations and best practices
@@ -86,7 +86,7 @@ If you prefer imperative coding, or just using your favourite programming langua
 
 * [aws-cdk](https://github.com/aws/aws-cdk) ⭐ 12,869 | 🐛 2,826 | 🌐 TypeScript | 📅 2026-08-14: The AWS Cloud Development Kit (AWS CDK) is an open-source software development framework to define cloud infrastructure in code and provision it through AWS CloudFormation.
 * [serverless-application-model](https://github.com/awslabs/serverless-application-model) ⭐ 9,563 | 🐛 125 | 🌐 Python | 📅 2026-08-13: The AWS Serverless Application Model (SAM) is an open-source framework for building serverless applications. It provides shorthand syntax to express functions, APIs, databases, and event source mappings. With just a few lines of configuration, you can define the application you want and model it.
-* [eksctl](https://github.com/weaveworks/eksctl) ⭐ 5,211 | 🐛 93 | 🌐 Go | 📅 2026-08-14: A CLI tool that uses CloudFormation to create clusters on EKS.
+* [eksctl](https://github.com/weaveworks/eksctl) ⭐ 5,211 | 🐛 92 | 🌐 Go | 📅 2026-08-14: A CLI tool that uses CloudFormation to create clusters on EKS.
 * [troposphere (Python)](https://github.com/cloudtools/troposphere) ⭐ 4,945 | 🐛 163 | 🌐 Python | 📅 2026-08-14: The troposphere library allows for easier creation of the AWS CloudFormation JSON by writing Python code to describe the AWS resources. troposphere also includes some basic support for OpenStack resources via Heat.
 * [OpenJS Architect](https://github.com/architect/architect) ⭐ 2,622 | 🐛 63 | 🌐 JavaScript | 📅 2025-12-24: Generate AWS CloudFormation and AWS Serverless Application Model code from a very terse and friendly high level manifest file written in `JSON`, `YAML`, `TOML` or `.arc` format
 * [mu](https://github.com/stelligent/mu) ⭐ 965 | 🐛 89 | 🌐 Go | 📅 2020-06-18: Similar to how the Serverless Framework improved the developer experience of Lambda and API Gateway, this tool makes it easier for developers to use EKS or ECS as a microservices platform.
@@ -166,4 +166,4 @@ This sample code is made available under a modified MIT license. See the LICENSE
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
