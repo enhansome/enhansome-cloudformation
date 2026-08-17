@@ -24,7 +24,7 @@
             "last_commit": "2026-07-28T15:21:08Z",
             "owner": "aws-cloudformation",
             "repo": "aws-cloudformation-templates",
-            "stars": 5202
+            "stars": 5203
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2026-03-04T07:23:08Z",
             "owner": "widdix",
             "repo": "aws-cf-templates",
-            "stars": 2775
+            "stars": 2774
           }
         }
       ],
@@ -72,7 +72,7 @@
             "last_commit": "2026-07-07T22:53:58Z",
             "owner": "iann0036",
             "repo": "former2",
-            "stars": 2411
+            "stars": 2410
           }
         },
         {
@@ -86,7 +86,7 @@
             "last_commit": "2026-01-19T08:41:07Z",
             "owner": "org-formation",
             "repo": "org-formation-cli",
-            "stars": 1487
+            "stars": 1488
           }
         },
         {
@@ -142,7 +142,7 @@
             "last_commit": "2026-07-24T18:30:40Z",
             "owner": "aws-ia",
             "repo": "taskcat",
-            "stars": 1206
+            "stars": 1205
           }
         },
         {
@@ -167,7 +167,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T00:10:59Z",
+            "last_commit": "2026-08-17T08:13:43Z",
             "owner": "aws-cloudformation",
             "repo": "cfn-lint-visual-studio-code",
             "stars": 290
@@ -291,10 +291,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T21:41:16Z",
+            "last_commit": "2026-08-17T15:09:58Z",
             "owner": "aws",
             "repo": "aws-cdk",
-            "stars": 12869
+            "stars": 12868
           }
         },
         {
@@ -308,7 +308,7 @@
             "last_commit": "2026-08-13T23:16:54Z",
             "owner": "aws",
             "repo": "serverless-application-model",
-            "stars": 9563
+            "stars": 9559
           }
         },
         {
@@ -662,7 +662,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T15:40:19.619Z",
+    "last_updated": "2026-08-17T15:44:21.633Z",
     "original_repository": "aws-cloudformation/awesome-cloudformation",
     "original_repository_sha": "afebea2cd423625b11c7795fd9edf3c343ad386a",
     "enhanced_repository": "enhansome/enhansome-cloudformation",
