@@ -55,7 +55,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T09:00:08Z",
+            "last_commit": "2026-08-18T09:04:46Z",
             "owner": "aws-cloudformation",
             "repo": "cfn-lint",
             "stars": 2639
@@ -86,7 +86,7 @@
             "last_commit": "2026-01-19T08:41:07Z",
             "owner": "org-formation",
             "repo": "org-formation-cli",
-            "stars": 1488
+            "stars": 1489
           }
         },
         {
@@ -111,7 +111,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-10T17:24:30Z",
+            "last_commit": "2026-08-17T18:49:45Z",
             "owner": "aws-cloudformation",
             "repo": "cloudformation-guard",
             "stars": 1385
@@ -167,7 +167,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T08:13:43Z",
+            "last_commit": "2026-08-18T08:09:38Z",
             "owner": "aws-cloudformation",
             "repo": "cfn-lint-visual-studio-code",
             "stars": 290
@@ -291,10 +291,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T15:09:58Z",
+            "last_commit": "2026-08-18T15:21:17Z",
             "owner": "aws",
             "repo": "aws-cdk",
-            "stars": 12868
+            "stars": 12870
           }
         },
         {
@@ -308,7 +308,7 @@
             "last_commit": "2026-08-13T23:16:54Z",
             "owner": "aws",
             "repo": "serverless-application-model",
-            "stars": 9559
+            "stars": 9561
           }
         },
         {
@@ -350,7 +350,7 @@
             "last_commit": "2025-12-24T00:22:40Z",
             "owner": "architect",
             "repo": "architect",
-            "stars": 2622
+            "stars": 2621
           }
         },
         {
@@ -662,7 +662,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T15:44:21.633Z",
+    "last_updated": "2026-08-18T15:49:09.602Z",
     "original_repository": "aws-cloudformation/awesome-cloudformation",
     "original_repository_sha": "afebea2cd423625b11c7795fd9edf3c343ad386a",
     "enhanced_repository": "enhansome/enhansome-cloudformation",
