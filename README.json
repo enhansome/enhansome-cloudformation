@@ -1,48 +1,47 @@
 {
   "items": [
     {
-      "description": "A curated list of resources and projects for working with AWS CloudFormation.",
-      "items": [],
-      "title": "Awesome CloudFormation"
-    },
-    {
       "description": "The following are pre-built CloudFormation Samples demonstrating how to use AWS CloudFormation to construct various canned resources, modules, applications or resource groupings.",
-      "items": [],
-      "title": "CloudFormation Samples"
-    },
-    {
-      "description": "",
       "items": [
         {
-          "node_type": "item",
-          "title": "aws-cloudformation-templates",
-          "description": "Sample AWS CloudFormation templates which are intended to support learning how to declare specific AWS resources or solve particular use cases.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-28T15:21:08Z",
-            "owner": "aws-cloudformation",
-            "repo": "aws-cloudformation-templates",
-            "stars": 5203
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aws-cf-templates",
-          "description": "Free Templates for AWS CloudFormation",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-03-04T07:23:08Z",
-            "owner": "widdix",
-            "repo": "aws-cf-templates",
-            "stars": 2774
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "aws-cloudformation-templates",
+              "description": "Sample AWS CloudFormation templates which are intended to support learning how to declare specific AWS resources or solve particular use cases.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47648925,
+                "language": "Python",
+                "last_commit": "2026-07-28T15:21:08Z",
+                "owner": "aws-cloudformation",
+                "repo": "aws-cloudformation-templates",
+                "stars": 5203
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aws-cf-templates",
+              "description": "Free Templates for AWS CloudFormation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45096760,
+                "language": "Java",
+                "last_commit": "2026-03-04T07:23:08Z",
+                "owner": "widdix",
+                "repo": "aws-cf-templates",
+                "stars": 2774
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Templates"
         }
       ],
-      "title": "Templates"
+      "title": "CloudFormation Samples"
     },
     {
       "description": "These tools are designed to assist in the authoring and testing process for AWS CloudFormation. Tools include template generation, linting and testing applications.",
@@ -54,11 +53,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 129005655,
             "language": "Python",
-            "last_commit": "2026-08-18T09:04:46Z",
+            "last_commit": "2026-08-19T09:23:39Z",
             "owner": "aws-cloudformation",
             "repo": "cfn-lint",
-            "stars": 2639
+            "stars": 2638
           }
         },
         {
@@ -68,6 +68,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 173295770,
             "language": "JavaScript",
             "last_commit": "2026-07-07T22:53:58Z",
             "owner": "iann0036",
@@ -82,6 +83,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 203860656,
             "language": "TypeScript",
             "last_commit": "2026-01-19T08:41:07Z",
             "owner": "org-formation",
@@ -96,11 +98,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 151180481,
             "language": "CSS",
             "last_commit": "2021-01-24T03:25:22Z",
             "owner": "iann0036",
             "repo": "AWSConsoleRecorder",
-            "stars": 1419
+            "stars": 1420
           }
         },
         {
@@ -110,6 +113,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 271888852,
             "language": "Rust",
             "last_commit": "2026-08-17T18:49:45Z",
             "owner": "aws-cloudformation",
@@ -124,6 +128,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51515624,
             "language": "Ruby",
             "last_commit": "2024-08-01T23:27:46Z",
             "owner": "stelligent",
@@ -138,6 +143,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73759774,
             "language": "Python",
             "last_commit": "2026-07-24T18:30:40Z",
             "owner": "aws-ia",
@@ -152,6 +158,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 263753576,
             "language": "JavaScript",
             "last_commit": "2024-04-19T10:32:58Z",
             "owner": "ljacobsson",
@@ -166,8 +173,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131912342,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T08:09:38Z",
+            "last_commit": "2026-08-19T00:10:01Z",
             "owner": "aws-cloudformation",
             "repo": "cfn-lint-visual-studio-code",
             "stars": 290
@@ -186,6 +194,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80561803,
             "language": "Python",
             "last_commit": "2026-08-03T16:35:55Z",
             "owner": "Sceptre",
@@ -200,6 +209,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 185874127,
             "language": "Go",
             "last_commit": "2026-07-29T18:46:23Z",
             "owner": "aws-cloudformation",
@@ -214,6 +224,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28885080,
             "language": "Python",
             "last_commit": "2023-11-28T14:41:22Z",
             "owner": "cloudtools",
@@ -228,6 +239,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 609128469,
             "language": "Rust",
             "last_commit": "2026-07-01T06:09:53Z",
             "owner": "udondan",
@@ -242,6 +254,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42434589,
             "language": "Ruby",
             "last_commit": "2025-02-27T07:07:39Z",
             "owner": "realestate-com-au",
@@ -256,6 +269,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77896914,
             "language": "Python",
             "last_commit": "2023-11-24T20:09:45Z",
             "owner": "Kotaimen",
@@ -270,6 +284,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 395857917,
             "language": "Go",
             "last_commit": "2024-08-15T19:38:17Z",
             "owner": "nirdosh17",
@@ -290,11 +305,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105808767,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T15:21:17Z",
+            "last_commit": "2026-08-19T11:23:41Z",
             "owner": "aws",
             "repo": "aws-cdk",
-            "stars": 12870
+            "stars": 12872
           }
         },
         {
@@ -304,8 +320,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70530854,
             "language": "Python",
-            "last_commit": "2026-08-13T23:16:54Z",
+            "last_commit": "2026-08-18T16:08:33Z",
             "owner": "aws",
             "repo": "serverless-application-model",
             "stars": 9561
@@ -318,8 +335,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 134539560,
             "language": "Go",
-            "last_commit": "2026-08-14T18:43:44Z",
+            "last_commit": "2026-08-18T22:55:19Z",
             "owner": "eksctl-io",
             "repo": "eksctl",
             "stars": 5211
@@ -332,6 +350,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7137821,
             "language": "Python",
             "last_commit": "2026-08-14T14:05:49Z",
             "owner": "cloudtools",
@@ -346,6 +365,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97773427,
             "language": "JavaScript",
             "last_commit": "2025-12-24T00:22:40Z",
             "owner": "architect",
@@ -360,6 +380,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76410287,
             "language": "Go",
             "last_commit": "2020-06-18T14:09:29Z",
             "owner": "stelligent",
@@ -374,6 +395,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7137996,
             "language": "Ruby",
             "last_commit": "2026-08-09T05:01:26Z",
             "owner": "cfndsl",
@@ -388,6 +410,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 91840432,
             "language": "PowerShell",
             "last_commit": "2022-01-05T16:39:15Z",
             "owner": "SCRT-HQ",
@@ -402,6 +425,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 174349205,
             "language": "Python",
             "last_commit": "2026-08-14T11:52:59Z",
             "owner": "towardsthecloud",
@@ -416,6 +440,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135091737,
             "language": "Ruby",
             "last_commit": "2026-05-11T05:40:57Z",
             "owner": "theonestack",
@@ -436,6 +461,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 169458597,
             "language": "Python",
             "last_commit": "2024-10-29T19:55:04Z",
             "owner": "aws-cloudformation",
@@ -450,6 +476,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 143929054,
             "language": "Python",
             "last_commit": "2026-07-10T00:35:51Z",
             "owner": "aws-cloudformation",
@@ -464,6 +491,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 162644504,
             "language": "Python",
             "last_commit": "2026-04-16T21:25:42Z",
             "owner": "aws-cloudformation",
@@ -478,6 +506,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 163019574,
             "language": "Go",
             "last_commit": "2023-12-08T17:50:21Z",
             "owner": "aws-cloudformation",
@@ -492,6 +521,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 152624998,
             "language": "Java",
             "last_commit": "2026-07-09T15:28:48Z",
             "owner": "aws-cloudformation",
@@ -512,6 +542,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 203368864,
             "language": "Python",
             "last_commit": "2026-08-06T17:50:43Z",
             "owner": "DataDog",
@@ -526,6 +557,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 222558795,
             "language": "Java",
             "last_commit": "2023-06-27T17:08:53Z",
             "owner": "opsgenie",
@@ -540,6 +572,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 215605392,
             "language": "Java",
             "last_commit": "2023-03-30T22:09:57Z",
             "owner": "newrelic",
@@ -554,6 +587,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 215657156,
             "language": "Java",
             "last_commit": "2019-11-18T22:15:38Z",
             "owner": "fortinet",
@@ -568,6 +602,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 216320072,
             "language": "Java",
             "last_commit": "2026-01-26T21:37:15Z",
             "owner": "spotinst",
@@ -582,6 +617,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 222558749,
             "language": "Java",
             "last_commit": "2019-11-19T14:56:20Z",
             "owner": "densify-dev",
@@ -596,6 +632,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 218771348,
             "language": "Java",
             "last_commit": "2019-11-19T13:44:20Z",
             "owner": "mnalezin",
@@ -607,63 +644,60 @@
       "title": "Third Party Resource Types"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Documentation"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Reference Guides"
-    },
-    {
-      "description": "CloudFormation's public documentation is also open-sourced and we love to accept contributions.",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "cloudformation-user-guide",
-          "description": "CloudFormation's public documentation source repository",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2023-12-07T23:09:03Z",
-            "owner": "awsdocs",
-            "repo": "aws-cloudformation-user-guide",
-            "stars": 762
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aws-cfn-resource-specs",
-          "description": "A Completely Tracked, Versioned, and Audited Collection Store of CloudFormationResource.json Specification Files. These are the specification files created by AWS and ingested by tools wrapped around CloudFormation template development, such as most tools listed under the Code Generation section. The repository includes detailed, automatically generated changelogs about each new release, such as information on new resource types and what regions support them.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2023-05-02T19:07:23Z",
-            "owner": "ScriptAutomate",
-            "repo": "aws-cfn-resource-specs",
-            "stars": 29
-          }
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "cloudformation-user-guide",
+                  "description": "CloudFormation's public documentation source repository",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 115147155,
+                    "language": null,
+                    "last_commit": "2023-12-07T23:09:03Z",
+                    "owner": "awsdocs",
+                    "repo": "aws-cloudformation-user-guide",
+                    "stars": 762
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "aws-cfn-resource-specs",
+                  "description": "A Completely Tracked, Versioned, and Audited Collection Store of CloudFormationResource.json Specification Files. These are the specification files created by AWS and ingested by tools wrapped around CloudFormation template development, such as most tools listed under the Code Generation section. The repository includes detailed, automatically generated changelogs about each new release, such as information on new resource types and what regions support them.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 202129359,
+                    "language": "Python",
+                    "last_commit": "2023-05-02T19:07:23Z",
+                    "owner": "ScriptAutomate",
+                    "repo": "aws-cfn-resource-specs",
+                    "stars": 29
+                  }
+                }
+              ],
+              "description": "CloudFormation's public documentation is also open-sourced and we love to accept contributions.",
+              "node_type": "group",
+              "title": "AWS"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Reference Guides"
         }
       ],
-      "title": "AWS"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "This sample code is made available under a modified MIT license. See the LICENSE file.",
-      "items": [],
-      "title": "License Summary"
+      "title": "Documentation"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T15:49:09.602Z",
+    "last_updated": "2026-08-19T12:19:56.774Z",
     "original_repository": "aws-cloudformation/awesome-cloudformation",
+    "original_repository_id": 169132999,
     "original_repository_sha": "afebea2cd423625b11c7795fd9edf3c343ad386a",
     "enhanced_repository": "enhansome/enhansome-cloudformation",
     "enhanced_repository_description": null,
