@@ -55,10 +55,10 @@
             "archived": false,
             "id": 129005655,
             "language": "Python",
-            "last_commit": "2026-08-19T09:23:39Z",
+            "last_commit": "2026-08-19T15:36:05Z",
             "owner": "aws-cloudformation",
             "repo": "cfn-lint",
-            "stars": 2638
+            "stars": 2637
           }
         },
         {
@@ -307,7 +307,7 @@
             "archived": false,
             "id": 105808767,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T11:23:41Z",
+            "last_commit": "2026-08-19T14:51:19Z",
             "owner": "aws",
             "repo": "aws-cdk",
             "stars": 12872
@@ -352,7 +352,7 @@
             "archived": false,
             "id": 7137821,
             "language": "Python",
-            "last_commit": "2026-08-14T14:05:49Z",
+            "last_commit": "2026-08-19T13:34:39Z",
             "owner": "cloudtools",
             "repo": "troposphere",
             "stars": 4945
@@ -695,7 +695,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:19:56.774Z",
+    "last_updated": "2026-08-19T15:49:00.577Z",
     "original_repository": "aws-cloudformation/awesome-cloudformation",
     "original_repository_id": 169132999,
     "original_repository_sha": "afebea2cd423625b11c7795fd9edf3c343ad386a",
