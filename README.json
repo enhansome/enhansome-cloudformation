@@ -58,7 +58,7 @@
             "last_commit": "2026-08-21T09:08:24Z",
             "owner": "aws-cloudformation",
             "repo": "cfn-lint",
-            "stars": 2639
+            "stars": 2638
           }
         },
         {
@@ -115,7 +115,7 @@
             "archived": false,
             "id": 271888852,
             "language": "Rust",
-            "last_commit": "2026-08-20T20:15:35Z",
+            "last_commit": "2026-08-21T21:16:41Z",
             "owner": "aws-cloudformation",
             "repo": "cloudformation-guard",
             "stars": 1385
@@ -175,10 +175,10 @@
             "archived": false,
             "id": 131912342,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T08:12:37Z",
+            "last_commit": "2026-08-22T08:06:18Z",
             "owner": "aws-cloudformation",
             "repo": "cfn-lint-visual-studio-code",
-            "stars": 290
+            "stars": 289
           }
         }
       ],
@@ -307,10 +307,10 @@
             "archived": false,
             "id": 105808767,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T14:57:29Z",
+            "last_commit": "2026-08-21T20:52:15Z",
             "owner": "aws",
             "repo": "aws-cdk",
-            "stars": 12874
+            "stars": 12876
           }
         },
         {
@@ -322,7 +322,7 @@
             "archived": false,
             "id": 70530854,
             "language": "Python",
-            "last_commit": "2026-08-18T16:08:33Z",
+            "last_commit": "2026-08-22T00:45:05Z",
             "owner": "aws",
             "repo": "serverless-application-model",
             "stars": 9562
@@ -337,7 +337,7 @@
             "archived": false,
             "id": 134539560,
             "language": "Go",
-            "last_commit": "2026-08-20T17:55:24Z",
+            "last_commit": "2026-08-21T17:14:49Z",
             "owner": "eksctl-io",
             "repo": "eksctl",
             "stars": 5212
@@ -695,7 +695,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T15:50:42.760Z",
+    "last_updated": "2026-08-22T15:38:44.659Z",
     "original_repository": "aws-cloudformation/awesome-cloudformation",
     "original_repository_id": 169132999,
     "original_repository_sha": "afebea2cd423625b11c7795fd9edf3c343ad386a",
