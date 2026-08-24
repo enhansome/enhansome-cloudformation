@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-28T15:21:08Z",
                 "owner": "aws-cloudformation",
                 "repo": "aws-cloudformation-templates",
-                "stars": 5204
+                "stars": 5205
               }
             },
             {
@@ -181,7 +181,7 @@
             "archived": false,
             "id": 271888852,
             "language": "Rust",
-            "last_commit": "2026-08-21T21:16:41Z",
+            "last_commit": "2026-08-24T15:07:19Z",
             "owner": "aws-cloudformation",
             "repo": "cloudformation-guard",
             "stars": 1385
@@ -373,10 +373,10 @@
             "archived": false,
             "id": 105808767,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T13:33:38Z",
+            "last_commit": "2026-08-24T15:04:11Z",
             "owner": "aws",
             "repo": "aws-cdk",
-            "stars": 12876
+            "stars": 12875
           }
         },
         {
@@ -825,7 +825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:19:34.148Z",
+    "last_updated": "2026-08-24T15:58:12.437Z",
     "original_repository": "aws-cloudformation/awesome-cloudformation",
     "original_repository_id": 169132999,
     "original_repository_sha": "afebea2cd423625b11c7795fd9edf3c343ad386a",
