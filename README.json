@@ -39,6 +39,72 @@
           "description": null,
           "node_type": "group",
           "title": "Templates"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "aws-cloudformation-samples",
+              "description": "Reusable CloudFormation modules to jump start your collection.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 315116333,
+                "language": "Python",
+                "last_commit": "2026-01-26T21:37:08Z",
+                "owner": "aws-cloudformation",
+                "repo": "aws-cloudformation-samples",
+                "stars": 147
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Modules"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "aws-cloudformation-samples",
+              "description": "Sample CloudFormation Resource Types",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 315116333,
+                "language": "Python",
+                "last_commit": "2026-01-26T21:37:08Z",
+                "owner": "aws-cloudformation",
+                "repo": "aws-cloudformation-samples",
+                "stars": 147
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Resource Types"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "aws-cloudformation-samples",
+              "description": "Sample CloudFormation Hooks",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 315116333,
+                "language": "Python",
+                "last_commit": "2026-01-26T21:37:08Z",
+                "owner": "aws-cloudformation",
+                "repo": "aws-cloudformation-samples",
+                "stars": 147
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Hooks"
         }
       ],
       "title": "CloudFormation Samples"
@@ -175,7 +241,7 @@
             "archived": false,
             "id": 131912342,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T00:10:56Z",
+            "last_commit": "2026-08-24T08:15:37Z",
             "owner": "aws-cloudformation",
             "repo": "cfn-lint-visual-studio-code",
             "stars": 289
@@ -307,7 +373,7 @@
             "archived": false,
             "id": 105808767,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T20:52:15Z",
+            "last_commit": "2026-08-24T13:33:38Z",
             "owner": "aws",
             "repo": "aws-cdk",
             "stars": 12876
@@ -340,7 +406,7 @@
             "last_commit": "2026-08-21T17:14:49Z",
             "owner": "eksctl-io",
             "repo": "eksctl",
-            "stars": 5212
+            "stars": 5213
           }
         },
         {
@@ -647,6 +713,48 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "Open Policy Agent",
+          "description": "Hook to allow policy-based decisions on stacks using Open Policy Agent",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 467527969,
+            "language": "Python",
+            "last_commit": "2025-12-15T13:10:31Z",
+            "owner": "StyraOSS",
+            "repo": "opa-aws-cloudformation-hook",
+            "stars": 37
+          }
+        }
+      ],
+      "title": "Third Party Hooks"
+    },
+    {
+      "description": "The Public Coverage Roadmap is supported by the AWS CloudFormation team to help prioritise coverage work streams and resource improvements.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "aws-cloudformation-coverage-roadmap",
+          "description": "This is a public roadmap focused on upcoming coverage support for CloudFormation. Coverage prioritisation is influenced by contributions and feedback to this roadmap.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 198678892,
+            "language": null,
+            "last_commit": "2026-08-14T19:28:45Z",
+            "owner": "aws-cloudformation",
+            "repo": "cloudformation-coverage-roadmap",
+            "stars": 1140
+          }
+        }
+      ],
+      "title": "Public Coverage Roadmap"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "children": [
             {
               "children": [
@@ -684,6 +792,28 @@
               "description": "CloudFormation's public documentation is also open-sourced and we love to accept contributions.",
               "node_type": "group",
               "title": "AWS"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Scale Your CloudFormation",
+                  "description": "An in-depth guide for intermediate users on becoming successful with Infrastructure as Code on AWS",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 226335645,
+                    "language": "JavaScript",
+                    "last_commit": "2022-12-10T11:36:27Z",
+                    "owner": "jeshan",
+                    "repo": "scale-your-cloudformation",
+                    "stars": 42
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "3rd parties"
             }
           ],
           "description": null,
@@ -695,7 +825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:40:28.118Z",
+    "last_updated": "2026-08-24T14:19:34.148Z",
     "original_repository": "aws-cloudformation/awesome-cloudformation",
     "original_repository_id": 169132999,
     "original_repository_sha": "afebea2cd423625b11c7795fd9edf3c343ad386a",
