@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-28T15:21:08Z",
                 "owner": "aws-cloudformation",
                 "repo": "aws-cloudformation-templates",
-                "stars": 5206
+                "stars": 5208
               }
             },
             {
@@ -121,10 +121,10 @@
             "archived": false,
             "id": 129005655,
             "language": "Python",
-            "last_commit": "2026-08-25T09:28:45Z",
+            "last_commit": "2026-08-25T21:11:03Z",
             "owner": "aws-cloudformation",
             "repo": "cfn-lint",
-            "stars": 2639
+            "stars": 2640
           }
         },
         {
@@ -181,7 +181,7 @@
             "archived": false,
             "id": 271888852,
             "language": "Rust",
-            "last_commit": "2026-08-25T15:28:32Z",
+            "last_commit": "2026-08-26T15:44:17Z",
             "owner": "aws-cloudformation",
             "repo": "cloudformation-guard",
             "stars": 1385
@@ -241,7 +241,7 @@
             "archived": false,
             "id": 131912342,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T08:14:47Z",
+            "last_commit": "2026-08-26T08:14:39Z",
             "owner": "aws-cloudformation",
             "repo": "cfn-lint-visual-studio-code",
             "stars": 289
@@ -373,7 +373,7 @@
             "archived": false,
             "id": 105808767,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T15:56:26Z",
+            "last_commit": "2026-08-26T16:34:58Z",
             "owner": "aws",
             "repo": "aws-cdk",
             "stars": 12876
@@ -388,7 +388,7 @@
             "archived": false,
             "id": 70530854,
             "language": "Python",
-            "last_commit": "2026-08-24T23:13:13Z",
+            "last_commit": "2026-08-25T16:13:34Z",
             "owner": "aws",
             "repo": "serverless-application-model",
             "stars": 9561
@@ -433,7 +433,7 @@
             "archived": false,
             "id": 97773427,
             "language": "JavaScript",
-            "last_commit": "2025-12-24T00:22:40Z",
+            "last_commit": "2026-08-26T15:00:26Z",
             "owner": "architect",
             "repo": "architect",
             "stars": 2622
@@ -825,7 +825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T16:03:10.868Z",
+    "last_updated": "2026-08-26T16:35:13.235Z",
     "original_repository": "aws-cloudformation/awesome-cloudformation",
     "original_repository_id": 169132999,
     "original_repository_sha": "afebea2cd423625b11c7795fd9edf3c343ad386a",
