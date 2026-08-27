@@ -32,7 +32,7 @@
                 "last_commit": "2026-03-04T07:23:08Z",
                 "owner": "widdix",
                 "repo": "aws-cf-templates",
-                "stars": 2776
+                "stars": 2777
               }
             }
           ],
@@ -121,7 +121,7 @@
             "archived": false,
             "id": 129005655,
             "language": "Python",
-            "last_commit": "2026-08-25T21:11:03Z",
+            "last_commit": "2026-08-26T21:48:30Z",
             "owner": "aws-cloudformation",
             "repo": "cfn-lint",
             "stars": 2640
@@ -229,7 +229,7 @@
             "last_commit": "2024-04-19T10:32:58Z",
             "owner": "ljacobsson",
             "repo": "cfn-diagram",
-            "stars": 1019
+            "stars": 1021
           }
         },
         {
@@ -241,7 +241,7 @@
             "archived": false,
             "id": 131912342,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T08:14:39Z",
+            "last_commit": "2026-08-27T11:23:23Z",
             "owner": "aws-cloudformation",
             "repo": "cfn-lint-visual-studio-code",
             "stars": 289
@@ -373,7 +373,7 @@
             "archived": false,
             "id": 105808767,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T16:34:58Z",
+            "last_commit": "2026-08-27T10:55:31Z",
             "owner": "aws",
             "repo": "aws-cdk",
             "stars": 12876
@@ -403,7 +403,7 @@
             "archived": false,
             "id": 134539560,
             "language": "Go",
-            "last_commit": "2026-08-21T17:14:49Z",
+            "last_commit": "2026-08-27T07:35:07Z",
             "owner": "eksctl-io",
             "repo": "eksctl",
             "stars": 5213
@@ -825,9 +825,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:35:13.235Z",
-    "original_repository": "aws-cloudformation/awesome-cloudformation",
-    "original_repository_id": 169132999,
+    "last_updated": "2026-08-27T11:30:11.266Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 169132999,
+      "language": null,
+      "last_commit": "2024-07-23T23:09:59Z",
+      "owner": "aws-cloudformation",
+      "repo": "awesome-cloudformation",
+      "stars": 624
+    },
     "original_repository_sha": "afebea2cd423625b11c7795fd9edf3c343ad386a",
     "enhanced_repository": "enhansome/enhansome-cloudformation",
     "enhanced_repository_description": null,
