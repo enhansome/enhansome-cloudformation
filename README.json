@@ -121,7 +121,7 @@
             "archived": false,
             "id": 129005655,
             "language": "Python",
-            "last_commit": "2026-08-26T21:48:30Z",
+            "last_commit": "2026-08-28T00:22:35Z",
             "owner": "aws-cloudformation",
             "repo": "cfn-lint",
             "stars": 2640
@@ -241,7 +241,7 @@
             "archived": false,
             "id": 131912342,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T11:23:23Z",
+            "last_commit": "2026-08-27T19:32:41Z",
             "owner": "aws-cloudformation",
             "repo": "cfn-lint-visual-studio-code",
             "stars": 289
@@ -280,7 +280,7 @@
             "last_commit": "2026-07-29T18:46:23Z",
             "owner": "aws-cloudformation",
             "repo": "rain",
-            "stars": 951
+            "stars": 952
           }
         },
         {
@@ -373,10 +373,10 @@
             "archived": false,
             "id": 105808767,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T10:55:31Z",
+            "last_commit": "2026-08-27T22:07:11Z",
             "owner": "aws",
             "repo": "aws-cdk",
-            "stars": 12876
+            "stars": 12874
           }
         },
         {
@@ -433,7 +433,7 @@
             "archived": false,
             "id": 97773427,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T15:00:26Z",
+            "last_commit": "2026-08-27T16:07:58Z",
             "owner": "architect",
             "repo": "architect",
             "stars": 2622
@@ -825,7 +825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:30:11.266Z",
+    "last_updated": "2026-08-28T00:26:29.852Z",
     "original_repository_info": {
       "archived": false,
       "id": 169132999,
