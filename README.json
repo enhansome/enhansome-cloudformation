@@ -21,7 +21,7 @@
                 "open_issues": 5,
                 "owner": "aws-cloudformation",
                 "repo": "aws-cloudformation-templates",
-                "stars": 5209,
+                "stars": 5210,
                 "topics": [
                   "aws-cloudformation",
                   "cloudformation-template"
@@ -166,7 +166,7 @@
             "id": 129005655,
             "language": "Python",
             "license": "MIT-0",
-            "last_commit": "2026-08-28T23:07:16Z",
+            "last_commit": "2026-08-29T09:09:44Z",
             "open_issues": 80,
             "owner": "aws-cloudformation",
             "repo": "cfn-lint",
@@ -414,7 +414,7 @@
             "id": 131912342,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T00:20:50Z",
+            "last_commit": "2026-08-29T16:07:55Z",
             "open_issues": 42,
             "owner": "aws-cloudformation",
             "repo": "cfn-lint-visual-studio-code",
@@ -638,11 +638,11 @@
             "id": 105808767,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T19:17:07Z",
-            "open_issues": 2845,
+            "last_commit": "2026-08-29T12:17:48Z",
+            "open_issues": 2849,
             "owner": "aws",
             "repo": "aws-cdk",
-            "stars": 12876,
+            "stars": 12879,
             "topics": [
               "aws",
               "cloud-infrastructure",
@@ -1042,7 +1042,7 @@
             "open_issues": 43,
             "owner": "aws-cloudformation",
             "repo": "cloudformation-cli-java-plugin",
-            "stars": 29,
+            "stars": 30,
             "topics": [
               "cloudformation-cli",
               "java",
@@ -1384,7 +1384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:38:31.464Z",
+    "last_updated": "2026-08-29T18:34:58.929Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources and projects for working with AWS CloudFormation.",

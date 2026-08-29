@@ -35,7 +35,7 @@ The following are pre-built CloudFormation Samples demonstrating how to use AWS 
 
 ### Templates
 
-* [aws-cloudformation-templates](https://github.com/awslabs/aws-cloudformation-templates) ⭐ 5,209 | 🐛 5 | 🌐 Python | 📅 2026-07-28: Sample AWS CloudFormation templates which are intended to support learning how to declare specific AWS resources or solve particular use cases.
+* [aws-cloudformation-templates](https://github.com/awslabs/aws-cloudformation-templates) ⭐ 5,210 | 🐛 5 | 🌐 Python | 📅 2026-07-28: Sample AWS CloudFormation templates which are intended to support learning how to declare specific AWS resources or solve particular use cases.
 * [aws-cf-templates](https://github.com/widdix/aws-cf-templates) ⭐ 2,777 | 🐛 26 | 🌐 Java | 📅 2026-03-04: Free Templates for AWS CloudFormation
 * [aws-quickstart](https://github.com/aws-quickstart): Automated gold-standard deployments on AWS
 * [asecure.cloud](https://asecure.cloud/): A free repository of customizable AWS security configurations and best practices
@@ -56,7 +56,7 @@ The following are pre-built CloudFormation Samples demonstrating how to use AWS 
 
 These tools are designed to assist in the authoring and testing process for AWS CloudFormation. Tools include template generation, linting and testing applications.
 
-* [cfn-python-lint](https://github.com/aws-cloudformation/cfn-python-lint) ⭐ 2,640 | 🐛 80 | 🌐 Python | 📅 2026-08-28: Validate CloudFormation yaml/json templates against the CloudFormation spec and additional checks. Includes checking valid values for resource properties and best practices.
+* [cfn-python-lint](https://github.com/aws-cloudformation/cfn-python-lint) ⭐ 2,640 | 🐛 80 | 🌐 Python | 📅 2026-08-29: Validate CloudFormation yaml/json templates against the CloudFormation spec and additional checks. Includes checking valid values for resource properties and best practices.
 * [Former2](https://github.com/iann0036/former2) ⭐ 2,413 | 🐛 182 | 🌐 JavaScript | 📅 2026-07-07: Generate CloudFormation / Terraform / Troposphere templates from your existing AWS resource
 * [org-formation](https://github.com/OlafConijn/AwsOrganizationFormation) ⭐ 1,489 | 🐛 99 | 🌐 TypeScript | 📅 2026-01-19: a tool that helps you write CloudFormation for your AWS Organization resources and create links between regular cloudformation resources across your accounts and regions.
 * [AWSConsoleRecorder](https://github.com/iann0036/AWSConsoleRecorder) ⚠️ Archived: Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
@@ -84,7 +84,7 @@ This section contains tools which have been designed to improve the experience o
 
 If you prefer imperative coding, or just using your favourite programming language, the following projects are intended to abstract the creation of AWS CloudFormation templates.
 
-* [aws-cdk](https://github.com/aws/aws-cdk) ⭐ 12,876 | 🐛 2,845 | 🌐 TypeScript | 📅 2026-08-28: The AWS Cloud Development Kit (AWS CDK) is an open-source software development framework to define cloud infrastructure in code and provision it through AWS CloudFormation.
+* [aws-cdk](https://github.com/aws/aws-cdk) ⭐ 12,879 | 🐛 2,849 | 🌐 TypeScript | 📅 2026-08-29: The AWS Cloud Development Kit (AWS CDK) is an open-source software development framework to define cloud infrastructure in code and provision it through AWS CloudFormation.
 * [serverless-application-model](https://github.com/awslabs/serverless-application-model) ⭐ 9,562 | 🐛 115 | 🌐 Python | 📅 2026-08-25: The AWS Serverless Application Model (SAM) is an open-source framework for building serverless applications. It provides shorthand syntax to express functions, APIs, databases, and event source mappings. With just a few lines of configuration, you can define the application you want and model it.
 * [eksctl](https://github.com/weaveworks/eksctl) ⭐ 5,213 | 🐛 91 | 🌐 Go | 📅 2026-08-27: A CLI tool that uses CloudFormation to create clusters on EKS.
 * [troposphere (Python)](https://github.com/cloudtools/troposphere) ⭐ 4,945 | 🐛 163 | 🌐 Python | 📅 2026-08-19: The troposphere library allows for easier creation of the AWS CloudFormation JSON by writing Python code to describe the AWS resources. troposphere also includes some basic support for OpenStack resources via Heat.
@@ -104,7 +104,7 @@ When you need to extend AWS CloudFormation to support your own personal or organ
 * [cloudformation-cli](https://github.com/aws-cloudformation/cloudformation-cli) ⭐ 336 | 🐛 157 | 🌐 Python | 📅 2026-08-24: The CloudFormation Provider Development Toolkit allows you to author your own resource providers that can be used by CloudFormation.
 * [cloudformation-cli-python-plugin](https://github.com/aws-cloudformation/cloudformation-cli-python-plugin) ⭐ 107 | 🐛 30 | 🌐 Python | 📅 2026-04-16: The CloudFormation Provider Development Toolkit Python Plugin allows you to autogenerate Python code based on an input schema.
 * [cloudformation-cli-go-plugin](https://github.com/aws-cloudformation/cloudformation-cli-go-plugin) ⭐ 53 | 🐛 29 | 🌐 Go | 📅 2023-12-08: The CloudFormation Provider Development Toolkit Go Plugin allows you to autogenerate Go code based on an input schema.
-* [cloudformation-cli-java-plugin](https://github.com/aws-cloudformation/cloudformation-cli-java-plugin) ⭐ 29 | 🐛 43 | 🌐 Java | 📅 2026-07-09: The CloudFormation Provider Development Toolkit Java Plugin allows you to autogenerate Java code based on an input schema.
+* [cloudformation-cli-java-plugin](https://github.com/aws-cloudformation/cloudformation-cli-java-plugin) ⭐ 30 | 🐛 43 | 🌐 Java | 📅 2026-07-09: The CloudFormation Provider Development Toolkit Java Plugin allows you to autogenerate Java code based on an input schema.
 
 ## Third Party Resource Types
 
