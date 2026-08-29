@@ -64,7 +64,7 @@ These tools are designed to assist in the authoring and testing process for AWS 
 * [cfn\_nag](https://github.com/stelligent/cfn_nag) ⭐ 1,309 | 🐛 84 | 🌐 Ruby | 📅 2024-08-01: The cfn-nag tool looks for patterns in CloudFormation templates that may indicate insecure infrastructure.
 * [taskcat](https://github.com/aws-quickstart/taskcat) ⭐ 1,205 | 🐛 42 | 🌐 Python | 📅 2026-07-24: taskcat is a tool that tests AWS CloudFormation templates. It deploys your AWS CloudFormation template in multiple AWS Regions and generates a report with a pass/fail grade for each region.
 * [cfn-diagram](https://github.com/ljacobsson/cfn-diagram) ⭐ 1,021 | 🐛 38 | 🌐 JavaScript | 📅 2024-04-19: CLI tool to visualise CloudFormation/SAM/CDK templates as diagrams.
-* [Visual Studio Code extension](https://github.com/aws-cloudformation/aws-cfn-lint-visual-studio-code) ⭐ 289 | 🐛 42 | 🌐 JavaScript | 📅 2026-08-28: CloudFormation Linter integration, autocompletion, reference documentation links on hover
+* [Visual Studio Code extension](https://github.com/aws-cloudformation/aws-cfn-lint-visual-studio-code) ⭐ 289 | 🐛 42 | 🌐 JavaScript | 📅 2026-08-29: CloudFormation Linter integration, autocompletion, reference documentation links on hover
 * [cfn flip](https://cfnflip.com/): a tool that converts AWS CloudFormation templates between JSON and YAML formats.
 * [cfsec](https://cfsec.dev): CloudFormation static analysis to identify potential misconfigurations before they reach production.
 
