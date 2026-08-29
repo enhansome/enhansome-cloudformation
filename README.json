@@ -17,8 +17,9 @@
                 "last_commit": "2026-07-28T15:21:08Z",
                 "owner": "aws-cloudformation",
                 "repo": "aws-cloudformation-templates",
-                "stars": 5208
-              }
+                "stars": 5209
+              },
+              "first_seen": "2026-08-29T00:01:39.805Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "widdix",
                 "repo": "aws-cf-templates",
                 "stars": 2777
-              }
+              },
+              "first_seen": "2026-08-29T00:01:39.805Z"
             }
           ],
           "description": null,
@@ -55,7 +57,8 @@
                 "owner": "aws-cloudformation",
                 "repo": "aws-cloudformation-samples",
                 "stars": 147
-              }
+              },
+              "first_seen": "2026-08-29T00:01:39.805Z"
             }
           ],
           "description": null,
@@ -77,7 +80,8 @@
                 "owner": "aws-cloudformation",
                 "repo": "aws-cloudformation-samples",
                 "stars": 147
-              }
+              },
+              "first_seen": "2026-08-29T00:01:39.805Z"
             }
           ],
           "description": null,
@@ -99,7 +103,8 @@
                 "owner": "aws-cloudformation",
                 "repo": "aws-cloudformation-samples",
                 "stars": 147
-              }
+              },
+              "first_seen": "2026-08-29T00:01:39.805Z"
             }
           ],
           "description": null,
@@ -121,11 +126,12 @@
             "archived": false,
             "id": 129005655,
             "language": "Python",
-            "last_commit": "2026-08-28T00:22:35Z",
+            "last_commit": "2026-08-28T23:07:16Z",
             "owner": "aws-cloudformation",
             "repo": "cfn-lint",
             "stars": 2640
-          }
+          },
+          "first_seen": "2026-08-29T00:01:39.805Z"
         },
         {
           "node_type": "item",
@@ -139,8 +145,9 @@
             "last_commit": "2026-07-07T22:53:58Z",
             "owner": "iann0036",
             "repo": "former2",
-            "stars": 2411
-          }
+            "stars": 2413
+          },
+          "first_seen": "2026-08-29T00:01:39.805Z"
         },
         {
           "node_type": "item",
@@ -155,7 +162,8 @@
             "owner": "org-formation",
             "repo": "org-formation-cli",
             "stars": 1489
-          }
+          },
+          "first_seen": "2026-08-29T00:01:39.805Z"
         },
         {
           "node_type": "item",
@@ -170,7 +178,8 @@
             "owner": "iann0036",
             "repo": "AWSConsoleRecorder",
             "stars": 1420
-          }
+          },
+          "first_seen": "2026-08-29T00:01:39.805Z"
         },
         {
           "node_type": "item",
@@ -184,8 +193,9 @@
             "last_commit": "2026-08-26T15:44:17Z",
             "owner": "aws-cloudformation",
             "repo": "cloudformation-guard",
-            "stars": 1385
-          }
+            "stars": 1386
+          },
+          "first_seen": "2026-08-29T00:01:39.805Z"
         },
         {
           "node_type": "item",
@@ -200,7 +210,8 @@
             "owner": "stelligent",
             "repo": "cfn_nag",
             "stars": 1309
-          }
+          },
+          "first_seen": "2026-08-29T00:01:39.805Z"
         },
         {
           "node_type": "item",
@@ -215,7 +226,8 @@
             "owner": "aws-ia",
             "repo": "taskcat",
             "stars": 1205
-          }
+          },
+          "first_seen": "2026-08-29T00:01:39.805Z"
         },
         {
           "node_type": "item",
@@ -230,7 +242,8 @@
             "owner": "ljacobsson",
             "repo": "cfn-diagram",
             "stars": 1021
-          }
+          },
+          "first_seen": "2026-08-29T00:01:39.805Z"
         },
         {
           "node_type": "item",
@@ -241,11 +254,12 @@
             "archived": false,
             "id": 131912342,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T19:32:41Z",
+            "last_commit": "2026-08-28T20:10:41Z",
             "owner": "aws-cloudformation",
             "repo": "cfn-lint-visual-studio-code",
             "stars": 289
-          }
+          },
+          "first_seen": "2026-08-29T00:01:39.805Z"
         }
       ],
       "title": "Authoring and Testing Tools"
@@ -266,7 +280,8 @@
             "owner": "Sceptre",
             "repo": "sceptre",
             "stars": 1533
-          }
+          },
+          "first_seen": "2026-08-29T00:01:39.805Z"
         },
         {
           "node_type": "item",
@@ -281,7 +296,8 @@
             "owner": "aws-cloudformation",
             "repo": "rain",
             "stars": 952
-          }
+          },
+          "first_seen": "2026-08-29T00:01:39.805Z"
         },
         {
           "node_type": "item",
@@ -296,7 +312,8 @@
             "owner": "cloudtools",
             "repo": "stacker",
             "stars": 707
-          }
+          },
+          "first_seen": "2026-08-29T00:01:39.805Z"
         },
         {
           "node_type": "item",
@@ -311,7 +328,8 @@
             "owner": "udondan",
             "repo": "cfn-teleport",
             "stars": 102
-          }
+          },
+          "first_seen": "2026-08-29T00:01:39.805Z"
         },
         {
           "node_type": "item",
@@ -326,7 +344,8 @@
             "owner": "realestate-com-au",
             "repo": "stackup",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-29T00:01:39.805Z"
         },
         {
           "node_type": "item",
@@ -341,7 +360,8 @@
             "owner": "Kotaimen",
             "repo": "awscfncli",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-29T00:01:39.805Z"
         },
         {
           "node_type": "item",
@@ -356,7 +376,8 @@
             "owner": "nirdosh17",
             "repo": "cfn-teardown",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T00:01:39.805Z"
         }
       ],
       "title": "CLI Tools"
@@ -373,11 +394,12 @@
             "archived": false,
             "id": 105808767,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T22:07:11Z",
+            "last_commit": "2026-08-28T19:17:07Z",
             "owner": "aws",
             "repo": "aws-cdk",
-            "stars": 12874
-          }
+            "stars": 12876
+          },
+          "first_seen": "2026-08-29T00:01:39.805Z"
         },
         {
           "node_type": "item",
@@ -391,8 +413,9 @@
             "last_commit": "2026-08-25T16:13:34Z",
             "owner": "aws",
             "repo": "serverless-application-model",
-            "stars": 9561
-          }
+            "stars": 9562
+          },
+          "first_seen": "2026-08-29T00:01:39.805Z"
         },
         {
           "node_type": "item",
@@ -407,7 +430,8 @@
             "owner": "eksctl-io",
             "repo": "eksctl",
             "stars": 5213
-          }
+          },
+          "first_seen": "2026-08-29T00:01:39.805Z"
         },
         {
           "node_type": "item",
@@ -422,7 +446,8 @@
             "owner": "cloudtools",
             "repo": "troposphere",
             "stars": 4945
-          }
+          },
+          "first_seen": "2026-08-29T00:01:39.805Z"
         },
         {
           "node_type": "item",
@@ -437,7 +462,8 @@
             "owner": "architect",
             "repo": "architect",
             "stars": 2622
-          }
+          },
+          "first_seen": "2026-08-29T00:01:39.805Z"
         },
         {
           "node_type": "item",
@@ -452,7 +478,8 @@
             "owner": "stelligent",
             "repo": "mu",
             "stars": 965
-          }
+          },
+          "first_seen": "2026-08-29T00:01:39.805Z"
         },
         {
           "node_type": "item",
@@ -467,7 +494,8 @@
             "owner": "cfndsl",
             "repo": "cfndsl",
             "stars": 425
-          }
+          },
+          "first_seen": "2026-08-29T00:01:39.805Z"
         },
         {
           "node_type": "item",
@@ -482,7 +510,8 @@
             "owner": "SCRT-HQ",
             "repo": "VaporShell",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-29T00:01:39.805Z"
         },
         {
           "node_type": "item",
@@ -493,11 +522,12 @@
             "archived": false,
             "id": 174349205,
             "language": "Python",
-            "last_commit": "2026-08-21T11:35:44Z",
+            "last_commit": "2026-08-28T21:21:05Z",
             "owner": "towardsthecloud",
             "repo": "vscode-cloudformation-snippets",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-29T00:01:39.805Z"
         },
         {
           "node_type": "item",
@@ -512,7 +542,8 @@
             "owner": "theonestack",
             "repo": "cfhighlander",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-29T00:01:39.805Z"
         }
       ],
       "title": "Code Generation"
@@ -533,7 +564,8 @@
             "owner": "aws-cloudformation",
             "repo": "custom-resource-helper",
             "stars": 384
-          }
+          },
+          "first_seen": "2026-08-29T00:01:39.805Z"
         },
         {
           "node_type": "item",
@@ -548,7 +580,8 @@
             "owner": "aws-cloudformation",
             "repo": "cloudformation-cli",
             "stars": 336
-          }
+          },
+          "first_seen": "2026-08-29T00:01:39.805Z"
         },
         {
           "node_type": "item",
@@ -563,7 +596,8 @@
             "owner": "aws-cloudformation",
             "repo": "cloudformation-cli-python-plugin",
             "stars": 107
-          }
+          },
+          "first_seen": "2026-08-29T00:01:39.805Z"
         },
         {
           "node_type": "item",
@@ -578,7 +612,8 @@
             "owner": "aws-cloudformation",
             "repo": "cloudformation-cli-go-plugin",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-29T00:01:39.805Z"
         },
         {
           "node_type": "item",
@@ -593,7 +628,8 @@
             "owner": "aws-cloudformation",
             "repo": "cloudformation-cli-java-plugin",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-29T00:01:39.805Z"
         }
       ],
       "title": "Custom Resource Development"
@@ -614,7 +650,8 @@
             "owner": "DataDog",
             "repo": "datadog-cloudformation-resources",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-29T00:01:39.805Z"
         },
         {
           "node_type": "item",
@@ -629,7 +666,8 @@
             "owner": "opsgenie",
             "repo": "opsgenie-cloudformation-resources",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T00:01:39.805Z"
         },
         {
           "node_type": "item",
@@ -644,7 +682,8 @@
             "owner": "newrelic",
             "repo": "cloudformation-partner-integration",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T00:01:39.805Z"
         },
         {
           "node_type": "item",
@@ -659,7 +698,8 @@
             "owner": "fortinet",
             "repo": "aws-cloudformation-resource-provider",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T00:01:39.805Z"
         },
         {
           "node_type": "item",
@@ -674,7 +714,8 @@
             "owner": "spotinst",
             "repo": "spotinst-aws-cloudformation-registry",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T00:01:39.805Z"
         },
         {
           "node_type": "item",
@@ -689,7 +730,8 @@
             "owner": "densify-dev",
             "repo": "cloudformation-optimization-as-code",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T00:01:39.805Z"
         },
         {
           "node_type": "item",
@@ -704,7 +746,8 @@
             "owner": "mnalezin",
             "repo": "DynatraceInstallerAgent",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T00:01:39.805Z"
         }
       ],
       "title": "Third Party Resource Types"
@@ -725,7 +768,8 @@
             "owner": "StyraOSS",
             "repo": "opa-aws-cloudformation-hook",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-29T00:01:39.805Z"
         }
       ],
       "title": "Third Party Hooks"
@@ -746,7 +790,8 @@
             "owner": "aws-cloudformation",
             "repo": "cloudformation-coverage-roadmap",
             "stars": 1140
-          }
+          },
+          "first_seen": "2026-08-29T00:01:39.805Z"
         }
       ],
       "title": "Public Coverage Roadmap"
@@ -771,7 +816,8 @@
                     "owner": "awsdocs",
                     "repo": "aws-cloudformation-user-guide",
                     "stars": 762
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:01:39.805Z"
                 },
                 {
                   "node_type": "item",
@@ -786,7 +832,8 @@
                     "owner": "ScriptAutomate",
                     "repo": "aws-cfn-resource-specs",
                     "stars": 29
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:01:39.805Z"
                 }
               ],
               "description": "CloudFormation's public documentation is also open-sourced and we love to accept contributions.",
@@ -808,7 +855,8 @@
                     "owner": "jeshan",
                     "repo": "scale-your-cloudformation",
                     "stars": 42
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:01:39.805Z"
                 }
               ],
               "description": null,
@@ -825,7 +873,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:26:29.852Z",
+    "last_updated": "2026-08-29T00:01:39.805Z",
     "original_repository_info": {
       "archived": false,
       "id": 169132999,
