@@ -166,8 +166,8 @@
             "id": 129005655,
             "language": "Python",
             "license": "MIT-0",
-            "last_commit": "2026-08-29T09:09:44Z",
-            "open_issues": 80,
+            "last_commit": "2026-08-30T09:26:40Z",
+            "open_issues": 81,
             "owner": "aws-cloudformation",
             "repo": "cfn-lint",
             "stars": 2640,
@@ -639,10 +639,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-08-29T12:17:48Z",
-            "open_issues": 2849,
+            "open_issues": 2855,
             "owner": "aws",
             "repo": "aws-cdk",
-            "stars": 12879,
+            "stars": 12880,
             "topics": [
               "aws",
               "cloud-infrastructure",
@@ -1384,7 +1384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T18:34:58.929Z",
+    "last_updated": "2026-08-30T18:39:05.582Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources and projects for working with AWS CloudFormation.",
@@ -1393,7 +1393,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2024-07-23T23:09:59Z",
-      "open_issues": 4,
+      "open_issues": 5,
       "owner": "aws-cloudformation",
       "repo": "awesome-cloudformation",
       "stars": 624,
