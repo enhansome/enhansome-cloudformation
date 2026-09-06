@@ -21,7 +21,7 @@
                 "open_issues": 5,
                 "owner": "aws-cloudformation",
                 "repo": "aws-cloudformation-templates",
-                "stars": 5212,
+                "stars": 5210,
                 "topics": [
                   "aws-cloudformation",
                   "cloudformation-template"
@@ -45,7 +45,7 @@
                 "open_issues": 26,
                 "owner": "widdix",
                 "repo": "aws-cf-templates",
-                "stars": 2778,
+                "stars": 2777,
                 "topics": [
                   "amazon-web-services",
                   "aws",
@@ -170,7 +170,7 @@
             "open_issues": 86,
             "owner": "aws-cloudformation",
             "repo": "cfn-lint",
-            "stars": 2640,
+            "stars": 2639,
             "topics": [
               "aws",
               "aws-cloudformation",
@@ -197,7 +197,7 @@
             "open_issues": 182,
             "owner": "iann0036",
             "repo": "former2",
-            "stars": 2413,
+            "stars": 2414,
             "topics": [
               "aws",
               "cdk",
@@ -365,7 +365,7 @@
             "open_issues": 42,
             "owner": "aws-ia",
             "repo": "taskcat",
-            "stars": 1205,
+            "stars": 1204,
             "topics": [
               "cfn",
               "ci",
@@ -414,7 +414,7 @@
             "id": 131912342,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T16:07:59Z",
+            "last_commit": "2026-09-06T00:25:37Z",
             "open_issues": 45,
             "owner": "aws-cloudformation",
             "repo": "cfn-lint-visual-studio-code",
@@ -639,10 +639,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-09-04T18:29:02Z",
-            "open_issues": 2863,
+            "open_issues": 2862,
             "owner": "aws",
             "repo": "aws-cdk",
-            "stars": 12887,
+            "stars": 12888,
             "topics": [
               "aws",
               "cloud-infrastructure",
@@ -669,7 +669,7 @@
             "open_issues": 111,
             "owner": "aws",
             "repo": "serverless-application-model",
-            "stars": 9563,
+            "stars": 9562,
             "topics": [
               "aws",
               "aws-sam",
@@ -1384,7 +1384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T17:23:00.493Z",
+    "last_updated": "2026-09-06T17:37:05.202Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources and projects for working with AWS CloudFormation.",
@@ -1396,7 +1396,7 @@
       "open_issues": 5,
       "owner": "aws-cloudformation",
       "repo": "awesome-cloudformation",
-      "stars": 624,
+      "stars": 623,
       "topics": [
         "awesome-list",
         "aws",
