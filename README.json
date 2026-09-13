@@ -170,7 +170,7 @@
             "open_issues": 83,
             "owner": "aws-cloudformation",
             "repo": "cfn-lint",
-            "stars": 2638,
+            "stars": 2637,
             "topics": [
               "aws",
               "aws-cloudformation",
@@ -197,7 +197,7 @@
             "open_issues": 182,
             "owner": "iann0036",
             "repo": "former2",
-            "stars": 2413,
+            "stars": 2412,
             "topics": [
               "aws",
               "cdk",
@@ -323,7 +323,7 @@
             "open_issues": 84,
             "owner": "stelligent",
             "repo": "cfn_nag",
-            "stars": 1308,
+            "stars": 1309,
             "topics": [
               "amazon",
               "aws",
@@ -639,7 +639,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-09-11T17:31:06Z",
-            "open_issues": 2857,
+            "open_issues": 2859,
             "owner": "aws",
             "repo": "aws-cdk",
             "stars": 12900,
@@ -754,7 +754,7 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2026-09-05T00:20:10Z",
-            "open_issues": 63,
+            "open_issues": 61,
             "owner": "architect",
             "repo": "architect",
             "stars": 2625,
@@ -1384,7 +1384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T17:45:26.072Z",
+    "last_updated": "2026-09-13T18:14:15.192Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources and projects for working with AWS CloudFormation.",
