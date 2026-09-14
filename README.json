@@ -167,10 +167,10 @@
             "language": "Python",
             "license": "MIT-0",
             "last_commit": "2026-09-12T09:23:18Z",
-            "open_issues": 83,
+            "open_issues": 85,
             "owner": "aws-cloudformation",
             "repo": "cfn-lint",
-            "stars": 2637,
+            "stars": 2636,
             "topics": [
               "aws",
               "aws-cloudformation",
@@ -288,8 +288,8 @@
             "id": 271888852,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T02:36:52Z",
-            "open_issues": 53,
+            "last_commit": "2026-09-14T17:29:18Z",
+            "open_issues": 57,
             "owner": "aws-cloudformation",
             "repo": "cloudformation-guard",
             "stars": 1388,
@@ -414,7 +414,7 @@
             "id": 131912342,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T08:09:55Z",
+            "last_commit": "2026-09-13T21:49:06Z",
             "open_issues": 45,
             "owner": "aws-cloudformation",
             "repo": "cfn-lint-visual-studio-code",
@@ -638,11 +638,11 @@
             "id": 105808767,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T17:31:06Z",
-            "open_issues": 2859,
+            "last_commit": "2026-09-14T19:18:07Z",
+            "open_issues": 2860,
             "owner": "aws",
             "repo": "aws-cdk",
-            "stars": 12900,
+            "stars": 12901,
             "topics": [
               "aws",
               "cloud-infrastructure",
@@ -950,7 +950,7 @@
             "open_issues": 31,
             "owner": "aws-cloudformation",
             "repo": "custom-resource-helper",
-            "stars": 384,
+            "stars": 383,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:39.805Z"
@@ -1384,7 +1384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T18:14:15.192Z",
+    "last_updated": "2026-09-14T19:52:09.745Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources and projects for working with AWS CloudFormation.",
