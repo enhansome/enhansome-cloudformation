@@ -21,7 +21,7 @@
                 "open_issues": 5,
                 "owner": "aws-cloudformation",
                 "repo": "aws-cloudformation-templates",
-                "stars": 5215,
+                "stars": 5217,
                 "topics": [
                   "aws-cloudformation",
                   "cloudformation-template"
@@ -82,7 +82,7 @@
                 "open_issues": 10,
                 "owner": "aws-cloudformation",
                 "repo": "aws-cloudformation-samples",
-                "stars": 147,
+                "stars": 148,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:39.805Z"
@@ -110,7 +110,7 @@
                 "open_issues": 10,
                 "owner": "aws-cloudformation",
                 "repo": "aws-cloudformation-samples",
-                "stars": 147,
+                "stars": 148,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:39.805Z"
@@ -138,7 +138,7 @@
                 "open_issues": 10,
                 "owner": "aws-cloudformation",
                 "repo": "aws-cloudformation-samples",
-                "stars": 147,
+                "stars": 148,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:39.805Z"
@@ -166,11 +166,11 @@
             "id": 129005655,
             "language": "Python",
             "license": "MIT-0",
-            "last_commit": "2026-09-16T17:02:35Z",
-            "open_issues": 78,
+            "last_commit": "2026-09-17T18:10:04Z",
+            "open_issues": 76,
             "owner": "aws-cloudformation",
             "repo": "cfn-lint",
-            "stars": 2636,
+            "stars": 2637,
             "topics": [
               "aws",
               "aws-cloudformation",
@@ -260,7 +260,7 @@
             "open_issues": 29,
             "owner": "iann0036",
             "repo": "AWSConsoleRecorder",
-            "stars": 1419,
+            "stars": 1418,
             "topics": [
               "aws",
               "aws-cli",
@@ -414,7 +414,7 @@
             "id": 131912342,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T08:12:07Z",
+            "last_commit": "2026-09-17T16:16:56Z",
             "open_issues": 45,
             "owner": "aws-cloudformation",
             "repo": "cfn-lint-visual-studio-code",
@@ -638,11 +638,11 @@
             "id": 105808767,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T15:35:53Z",
+            "last_commit": "2026-09-17T18:35:53Z",
             "open_issues": 2858,
             "owner": "aws",
             "repo": "aws-cdk",
-            "stars": 12899,
+            "stars": 12900,
             "topics": [
               "aws",
               "cloud-infrastructure",
@@ -669,7 +669,7 @@
             "open_issues": 112,
             "owner": "aws",
             "repo": "serverless-application-model",
-            "stars": 9567,
+            "stars": 9568,
             "topics": [
               "aws",
               "aws-sam",
@@ -695,7 +695,7 @@
             "id": 134539560,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-12T01:13:32Z",
+            "last_commit": "2026-09-17T05:08:27Z",
             "open_issues": 98,
             "owner": "eksctl-io",
             "repo": "eksctl",
@@ -908,7 +908,7 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2026-09-07T23:42:59Z",
-            "open_issues": 33,
+            "open_issues": 32,
             "owner": "theonestack",
             "repo": "cfhighlander",
             "stars": 24,
@@ -950,7 +950,7 @@
             "open_issues": 31,
             "owner": "aws-cloudformation",
             "repo": "custom-resource-helper",
-            "stars": 383,
+            "stars": 382,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:39.805Z"
@@ -971,7 +971,7 @@
             "open_issues": 156,
             "owner": "aws-cloudformation",
             "repo": "cloudformation-cli",
-            "stars": 336,
+            "stars": 337,
             "topics": [
               "aws",
               "aws-cloudformation",
@@ -1069,8 +1069,8 @@
             "id": 203368864,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-20T19:30:46Z",
-            "open_issues": 24,
+            "last_commit": "2026-09-17T17:46:33Z",
+            "open_issues": 26,
             "owner": "DataDog",
             "repo": "datadog-cloudformation-resources",
             "stars": 55,
@@ -1267,7 +1267,7 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-14T19:28:45Z",
-            "open_issues": 1343,
+            "open_issues": 1344,
             "owner": "aws-cloudformation",
             "repo": "cloudformation-coverage-roadmap",
             "stars": 1140,
@@ -1332,7 +1332,7 @@
                     "open_issues": 2,
                     "owner": "ScriptAutomate",
                     "repo": "aws-cfn-resource-specs",
-                    "stars": 29,
+                    "stars": 28,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:01:39.805Z"
@@ -1384,7 +1384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T18:55:38.509Z",
+    "last_updated": "2026-09-17T19:04:47.921Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources and projects for working with AWS CloudFormation.",
@@ -1396,7 +1396,7 @@
       "open_issues": 5,
       "owner": "aws-cloudformation",
       "repo": "awesome-cloudformation",
-      "stars": 622,
+      "stars": 621,
       "topics": [
         "awesome-list",
         "aws",
