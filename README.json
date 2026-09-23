@@ -166,7 +166,7 @@
             "id": 129005655,
             "language": "Python",
             "license": "MIT-0",
-            "last_commit": "2026-09-22T09:21:26Z",
+            "last_commit": "2026-09-23T09:22:49Z",
             "open_issues": 80,
             "owner": "aws-cloudformation",
             "repo": "cfn-lint",
@@ -414,7 +414,7 @@
             "id": 131912342,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T08:12:12Z",
+            "last_commit": "2026-09-23T16:09:53Z",
             "open_issues": 46,
             "owner": "aws-cloudformation",
             "repo": "cfn-lint-visual-studio-code",
@@ -638,11 +638,11 @@
             "id": 105808767,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T18:55:56Z",
-            "open_issues": 2872,
+            "last_commit": "2026-09-23T17:59:33Z",
+            "open_issues": 2880,
             "owner": "aws",
             "repo": "aws-cdk",
-            "stars": 12910,
+            "stars": 12911,
             "topics": [
               "aws",
               "cloud-infrastructure",
@@ -669,7 +669,7 @@
             "open_issues": 114,
             "owner": "aws",
             "repo": "serverless-application-model",
-            "stars": 9571,
+            "stars": 9572,
             "topics": [
               "aws",
               "aws-sam",
@@ -699,7 +699,7 @@
             "open_issues": 97,
             "owner": "eksctl-io",
             "repo": "eksctl",
-            "stars": 5212,
+            "stars": 5213,
             "topics": [
               "amazon-web-services",
               "aws-cloudformation",
@@ -1267,7 +1267,7 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-14T19:28:45Z",
-            "open_issues": 1344,
+            "open_issues": 1338,
             "owner": "aws-cloudformation",
             "repo": "cloudformation-coverage-roadmap",
             "stars": 1140,
@@ -1384,7 +1384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T18:58:07.631Z",
+    "last_updated": "2026-09-23T19:06:05.521Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources and projects for working with AWS CloudFormation.",
