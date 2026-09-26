@@ -21,7 +21,7 @@
                 "open_issues": 5,
                 "owner": "aws-cloudformation",
                 "repo": "aws-cloudformation-templates",
-                "stars": 5219,
+                "stars": 5218,
                 "topics": [
                   "aws-cloudformation",
                   "cloudformation-template"
@@ -45,7 +45,7 @@
                 "open_issues": 26,
                 "owner": "widdix",
                 "repo": "aws-cf-templates",
-                "stars": 2778,
+                "stars": 2775,
                 "topics": [
                   "amazon-web-services",
                   "aws",
@@ -166,8 +166,8 @@
             "id": 129005655,
             "language": "Python",
             "license": "MIT-0",
-            "last_commit": "2026-09-25T09:13:26Z",
-            "open_issues": 86,
+            "last_commit": "2026-09-26T09:29:21Z",
+            "open_issues": 85,
             "owner": "aws-cloudformation",
             "repo": "cfn-lint",
             "stars": 2640,
@@ -197,7 +197,7 @@
             "open_issues": 182,
             "owner": "iann0036",
             "repo": "former2",
-            "stars": 2414,
+            "stars": 2415,
             "topics": [
               "aws",
               "cdk",
@@ -414,7 +414,7 @@
             "id": 131912342,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T08:12:20Z",
+            "last_commit": "2026-09-26T08:11:10Z",
             "open_issues": 46,
             "owner": "aws-cloudformation",
             "repo": "cfn-lint-visual-studio-code",
@@ -638,11 +638,11 @@
             "id": 105808767,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T18:54:42Z",
-            "open_issues": 2864,
+            "last_commit": "2026-09-25T20:28:17Z",
+            "open_issues": 2862,
             "owner": "aws",
             "repo": "aws-cdk",
-            "stars": 12912,
+            "stars": 12911,
             "topics": [
               "aws",
               "cloud-infrastructure",
@@ -695,11 +695,11 @@
             "id": 134539560,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-24T05:08:14Z",
-            "open_issues": 101,
+            "last_commit": "2026-09-25T20:15:45Z",
+            "open_issues": 102,
             "owner": "eksctl-io",
             "repo": "eksctl",
-            "stars": 5214,
+            "stars": 5213,
             "topics": [
               "amazon-web-services",
               "aws-cloudformation",
@@ -1347,7 +1347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T19:17:49.729Z",
+    "last_updated": "2026-09-26T18:37:54.481Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources and projects for working with AWS CloudFormation.",
