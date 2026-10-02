@@ -35,8 +35,8 @@ The following are pre-built CloudFormation Samples demonstrating how to use AWS 
 
 ### Templates
 
-* [aws-cloudformation-templates](https://github.com/awslabs/aws-cloudformation-templates) ⭐ 5,217 | 🐛 5 | 🌐 Python | 📅 2026-07-28: Sample AWS CloudFormation templates which are intended to support learning how to declare specific AWS resources or solve particular use cases.
-* [aws-cf-templates](https://github.com/widdix/aws-cf-templates) ⭐ 2,775 | 🐛 26 | 🌐 Java | 📅 2026-03-04: Free Templates for AWS CloudFormation
+* [aws-cloudformation-templates](https://github.com/awslabs/aws-cloudformation-templates) ⭐ 5,219 | 🐛 5 | 🌐 Python | 📅 2026-07-28: Sample AWS CloudFormation templates which are intended to support learning how to declare specific AWS resources or solve particular use cases.
+* [aws-cf-templates](https://github.com/widdix/aws-cf-templates) ⭐ 2,773 | 🐛 26 | 🌐 Java | 📅 2026-03-04: Free Templates for AWS CloudFormation
 * [aws-quickstart](https://github.com/aws-quickstart): Automated gold-standard deployments on AWS
 * [asecure.cloud](https://asecure.cloud/): A free repository of customizable AWS security configurations and best practices
 
@@ -56,7 +56,7 @@ The following are pre-built CloudFormation Samples demonstrating how to use AWS 
 
 These tools are designed to assist in the authoring and testing process for AWS CloudFormation. Tools include template generation, linting and testing applications.
 
-* [cfn-python-lint](https://github.com/aws-cloudformation/cfn-python-lint) ⭐ 2,640 | 🐛 81 | 🌐 Python | 📅 2026-10-01: Validate CloudFormation yaml/json templates against the CloudFormation spec and additional checks. Includes checking valid values for resource properties and best practices.
+* [cfn-python-lint](https://github.com/aws-cloudformation/cfn-python-lint) ⭐ 2,640 | 🐛 81 | 🌐 Python | 📅 2026-10-02: Validate CloudFormation yaml/json templates against the CloudFormation spec and additional checks. Includes checking valid values for resource properties and best practices.
 * [Former2](https://github.com/iann0036/former2) ⭐ 2,415 | 🐛 182 | 🌐 JavaScript | 📅 2026-07-07: Generate CloudFormation / Terraform / Troposphere templates from your existing AWS resource
 * [org-formation](https://github.com/OlafConijn/AwsOrganizationFormation) ⭐ 1,489 | 🐛 99 | 🌐 TypeScript | 📅 2026-01-19: a tool that helps you write CloudFormation for your AWS Organization resources and create links between regular cloudformation resources across your accounts and regions.
 * [AWSConsoleRecorder](https://github.com/iann0036/AWSConsoleRecorder) ⚠️ Archived: Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
@@ -64,7 +64,7 @@ These tools are designed to assist in the authoring and testing process for AWS 
 * [cfn\_nag](https://github.com/stelligent/cfn_nag) ⭐ 1,313 | 🐛 84 | 🌐 Ruby | 📅 2024-08-01: The cfn-nag tool looks for patterns in CloudFormation templates that may indicate insecure infrastructure.
 * [taskcat](https://github.com/aws-quickstart/taskcat) ⭐ 1,204 | 🐛 42 | 🌐 Python | 📅 2026-07-24: taskcat is a tool that tests AWS CloudFormation templates. It deploys your AWS CloudFormation template in multiple AWS Regions and generates a report with a pass/fail grade for each region.
 * [cfn-diagram](https://github.com/ljacobsson/cfn-diagram) ⭐ 1,021 | 🐛 38 | 🌐 JavaScript | 📅 2024-04-19: CLI tool to visualise CloudFormation/SAM/CDK templates as diagrams.
-* [Visual Studio Code extension](https://github.com/aws-cloudformation/aws-cfn-lint-visual-studio-code) ⭐ 289 | 🐛 46 | 🌐 JavaScript | 📅 2026-10-01: CloudFormation Linter integration, autocompletion, reference documentation links on hover
+* [Visual Studio Code extension](https://github.com/aws-cloudformation/aws-cfn-lint-visual-studio-code) ⭐ 289 | 🐛 46 | 🌐 JavaScript | 📅 2026-10-02: CloudFormation Linter integration, autocompletion, reference documentation links on hover
 * [cfn flip](https://cfnflip.com/): a tool that converts AWS CloudFormation templates between JSON and YAML formats.
 * [cfsec](https://cfsec.dev): CloudFormation static analysis to identify potential misconfigurations before they reach production.
 
@@ -84,15 +84,15 @@ This section contains tools which have been designed to improve the experience o
 
 If you prefer imperative coding, or just using your favourite programming language, the following projects are intended to abstract the creation of AWS CloudFormation templates.
 
-* [aws-cdk](https://github.com/aws/aws-cdk) ⭐ 12,921 | 🐛 2,867 | 🌐 TypeScript | 📅 2026-10-01: The AWS Cloud Development Kit (AWS CDK) is an open-source software development framework to define cloud infrastructure in code and provision it through AWS CloudFormation.
-* [serverless-application-model](https://github.com/awslabs/serverless-application-model) ⭐ 9,573 | 🐛 118 | 🌐 Python | 📅 2026-09-29: The AWS Serverless Application Model (SAM) is an open-source framework for building serverless applications. It provides shorthand syntax to express functions, APIs, databases, and event source mappings. With just a few lines of configuration, you can define the application you want and model it.
-* [eksctl](https://github.com/weaveworks/eksctl) ⭐ 5,215 | 🐛 110 | 🌐 Go | 📅 2026-10-01: A CLI tool that uses CloudFormation to create clusters on EKS.
+* [aws-cdk](https://github.com/aws/aws-cdk) ⭐ 12,921 | 🐛 2,868 | 🌐 TypeScript | 📅 2026-10-02: The AWS Cloud Development Kit (AWS CDK) is an open-source software development framework to define cloud infrastructure in code and provision it through AWS CloudFormation.
+* [serverless-application-model](https://github.com/awslabs/serverless-application-model) ⭐ 9,573 | 🐛 118 | 🌐 Python | 📅 2026-10-01: The AWS Serverless Application Model (SAM) is an open-source framework for building serverless applications. It provides shorthand syntax to express functions, APIs, databases, and event source mappings. With just a few lines of configuration, you can define the application you want and model it.
+* [eksctl](https://github.com/weaveworks/eksctl) ⭐ 5,214 | 🐛 112 | 🌐 Go | 📅 2026-10-02: A CLI tool that uses CloudFormation to create clusters on EKS.
 * [troposphere (Python)](https://github.com/cloudtools/troposphere) ⭐ 4,943 | 🐛 164 | 🌐 Python | 📅 2026-09-28: The troposphere library allows for easier creation of the AWS CloudFormation JSON by writing Python code to describe the AWS resources. troposphere also includes some basic support for OpenStack resources via Heat.
 * [OpenJS Architect](https://github.com/architect/architect) ⭐ 2,625 | 🐛 61 | 🌐 JavaScript | 📅 2026-09-05: Generate AWS CloudFormation and AWS Serverless Application Model code from a very terse and friendly high level manifest file written in `JSON`, `YAML`, `TOML` or `.arc` format
 * [mu](https://github.com/stelligent/mu) ⭐ 965 | 🐛 89 | 🌐 Go | 📅 2020-06-18: Similar to how the Serverless Framework improved the developer experience of Lambda and API Gateway, this tool makes it easier for developers to use EKS or ECS as a microservices platform.
 * [cfndsl](https://github.com/cfndsl/cfndsl) ⭐ 425 | 🐛 8 | 🌐 Ruby | 📅 2026-08-09: Ruby DSL for generating AWS CloudFormation templates.
 * [VaporShell (PowerShell)](https://github.com/scrthq/VaporShell) ⚠️ Archived: A PowerShell module for building, packaging and deploying AWS CloudFormation templates.
-* [CloudFormation Snippets for VS Code](https://github.com/dannysteenman/cloudformation-yaml-snippets) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2026-09-25: This VS Code extension adds autocompletion for all the resources that AWS CloudFormation supports.
+* [CloudFormation Snippets for VS Code](https://github.com/dannysteenman/cloudformation-yaml-snippets) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2026-10-02: This VS Code extension adds autocompletion for all the resources that AWS CloudFormation supports.
 * [cfhighlander](https://github.com/theonestack/cfhighlander) ⭐ 24 | 🐛 32 | 🌐 Ruby | 📅 2026-09-07: Ruby DSL for generating AWS CloudFormation templates using Cfndsl in a modular and extensible manner
 * [sparkleformation (Ruby)](https://github.com/sparkleformation): A magical Ruby infrastructure orchestration DSL
 
@@ -130,7 +130,7 @@ The following third-party vendors have created resource types using the CloudFor
 
 The Public Coverage Roadmap is supported by the AWS CloudFormation team to help prioritise coverage work streams and resource improvements.
 
-* [aws-cloudformation-coverage-roadmap](https://github.com/aws-cloudformation/aws-cloudformation-coverage-roadmap) ⭐ 1,139 | 🐛 1,337 | 📅 2026-08-14: This is a public roadmap focused on upcoming coverage support for CloudFormation. Coverage prioritisation is influenced by contributions and feedback to this roadmap.
+* [aws-cloudformation-coverage-roadmap](https://github.com/aws-cloudformation/aws-cloudformation-coverage-roadmap) ⭐ 1,139 | 🐛 1,339 | 📅 2026-08-14: This is a public roadmap focused on upcoming coverage support for CloudFormation. Coverage prioritisation is influenced by contributions and feedback to this roadmap.
 
 ## Blog Posts and Talks
 
@@ -166,4 +166,4 @@ This sample code is made available under a modified MIT license. See the LICENSE
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
