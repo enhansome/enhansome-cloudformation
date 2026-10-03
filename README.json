@@ -414,7 +414,7 @@
             "id": 131912342,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T12:52:46Z",
+            "last_commit": "2026-10-03T00:23:42Z",
             "open_issues": 46,
             "owner": "aws-cloudformation",
             "repo": "cfn-lint-visual-studio-code",
@@ -639,7 +639,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T15:21:54Z",
-            "open_issues": 2868,
+            "open_issues": 2873,
             "owner": "aws",
             "repo": "aws-cdk",
             "stars": 12921,
@@ -695,8 +695,8 @@
             "id": 134539560,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T17:26:17Z",
-            "open_issues": 112,
+            "last_commit": "2026-10-02T22:33:18Z",
+            "open_issues": 110,
             "owner": "eksctl-io",
             "repo": "eksctl",
             "stars": 5214,
@@ -1347,7 +1347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:58:27.283Z",
+    "last_updated": "2026-10-03T04:42:47.594Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources and projects for working with AWS CloudFormation.",
