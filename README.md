@@ -64,7 +64,7 @@ These tools are designed to assist in the authoring and testing process for AWS 
 * [cfn\_nag](https://github.com/stelligent/cfn_nag) ⭐ 1,313 | 🐛 84 | 🌐 Ruby | 📅 2024-08-01: The cfn-nag tool looks for patterns in CloudFormation templates that may indicate insecure infrastructure.
 * [taskcat](https://github.com/aws-quickstart/taskcat) ⭐ 1,204 | 🐛 42 | 🌐 Python | 📅 2026-07-24: taskcat is a tool that tests AWS CloudFormation templates. It deploys your AWS CloudFormation template in multiple AWS Regions and generates a report with a pass/fail grade for each region.
 * [cfn-diagram](https://github.com/ljacobsson/cfn-diagram) ⭐ 1,020 | 🐛 38 | 🌐 JavaScript | 📅 2024-04-19: CLI tool to visualise CloudFormation/SAM/CDK templates as diagrams.
-* [Visual Studio Code extension](https://github.com/aws-cloudformation/aws-cfn-lint-visual-studio-code) ⭐ 289 | 🐛 46 | 🌐 JavaScript | 📅 2026-10-09: CloudFormation Linter integration, autocompletion, reference documentation links on hover
+* [Visual Studio Code extension](https://github.com/aws-cloudformation/aws-cfn-lint-visual-studio-code) ⭐ 289 | 🐛 46 | 🌐 JavaScript | 📅 2026-10-10: CloudFormation Linter integration, autocompletion, reference documentation links on hover
 * [cfn flip](https://cfnflip.com/): a tool that converts AWS CloudFormation templates between JSON and YAML formats.
 * [cfsec](https://cfsec.dev): CloudFormation static analysis to identify potential misconfigurations before they reach production.
 
@@ -84,8 +84,8 @@ This section contains tools which have been designed to improve the experience o
 
 If you prefer imperative coding, or just using your favourite programming language, the following projects are intended to abstract the creation of AWS CloudFormation templates.
 
-* [aws-cdk](https://github.com/aws/aws-cdk) ⭐ 12,925 | 🐛 2,874 | 🌐 TypeScript | 📅 2026-10-09: The AWS Cloud Development Kit (AWS CDK) is an open-source software development framework to define cloud infrastructure in code and provision it through AWS CloudFormation.
-* [serverless-application-model](https://github.com/awslabs/serverless-application-model) ⭐ 9,573 | 🐛 119 | 🌐 Python | 📅 2026-10-09: The AWS Serverless Application Model (SAM) is an open-source framework for building serverless applications. It provides shorthand syntax to express functions, APIs, databases, and event source mappings. With just a few lines of configuration, you can define the application you want and model it.
+* [aws-cdk](https://github.com/aws/aws-cdk) ⭐ 12,927 | 🐛 2,877 | 🌐 TypeScript | 📅 2026-10-09: The AWS Cloud Development Kit (AWS CDK) is an open-source software development framework to define cloud infrastructure in code and provision it through AWS CloudFormation.
+* [serverless-application-model](https://github.com/awslabs/serverless-application-model) ⭐ 9,575 | 🐛 117 | 🌐 Python | 📅 2026-10-09: The AWS Serverless Application Model (SAM) is an open-source framework for building serverless applications. It provides shorthand syntax to express functions, APIs, databases, and event source mappings. With just a few lines of configuration, you can define the application you want and model it.
 * [eksctl](https://github.com/weaveworks/eksctl) ⭐ 5,214 | 🐛 110 | 🌐 Go | 📅 2026-10-09: A CLI tool that uses CloudFormation to create clusters on EKS.
 * [troposphere (Python)](https://github.com/cloudtools/troposphere) ⭐ 4,942 | 🐛 163 | 🌐 Python | 📅 2026-10-09: The troposphere library allows for easier creation of the AWS CloudFormation JSON by writing Python code to describe the AWS resources. troposphere also includes some basic support for OpenStack resources via Heat.
 * [OpenJS Architect](https://github.com/architect/architect) ⭐ 2,625 | 🐛 61 | 🌐 JavaScript | 📅 2026-09-05: Generate AWS CloudFormation and AWS Serverless Application Model code from a very terse and friendly high level manifest file written in `JSON`, `YAML`, `TOML` or `.arc` format
@@ -130,7 +130,7 @@ The following third-party vendors have created resource types using the CloudFor
 
 The Public Coverage Roadmap is supported by the AWS CloudFormation team to help prioritise coverage work streams and resource improvements.
 
-* [aws-cloudformation-coverage-roadmap](https://github.com/aws-cloudformation/aws-cloudformation-coverage-roadmap) ⭐ 1,139 | 🐛 1,154 | 📅 2026-08-14: This is a public roadmap focused on upcoming coverage support for CloudFormation. Coverage prioritisation is influenced by contributions and feedback to this roadmap.
+* [aws-cloudformation-coverage-roadmap](https://github.com/aws-cloudformation/aws-cloudformation-coverage-roadmap) ⭐ 1,140 | 🐛 1,155 | 📅 2026-08-14: This is a public roadmap focused on upcoming coverage support for CloudFormation. Coverage prioritisation is influenced by contributions and feedback to this roadmap.
 
 ## Blog Posts and Talks
 
@@ -166,4 +166,4 @@ This sample code is made available under a modified MIT license. See the LICENSE
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
