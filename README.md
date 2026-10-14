@@ -56,15 +56,15 @@ The following are pre-built CloudFormation Samples demonstrating how to use AWS 
 
 These tools are designed to assist in the authoring and testing process for AWS CloudFormation. Tools include template generation, linting and testing applications.
 
-* [cfn-python-lint](https://github.com/aws-cloudformation/cfn-python-lint) ⭐ 2,642 | 🐛 91 | 🌐 Python | 📅 2026-10-13: Validate CloudFormation yaml/json templates against the CloudFormation spec and additional checks. Includes checking valid values for resource properties and best practices.
+* [cfn-python-lint](https://github.com/aws-cloudformation/cfn-python-lint) ⭐ 2,642 | 🐛 103 | 🌐 Python | 📅 2026-10-14: Validate CloudFormation yaml/json templates against the CloudFormation spec and additional checks. Includes checking valid values for resource properties and best practices.
 * [Former2](https://github.com/iann0036/former2) ⭐ 2,415 | 🐛 182 | 🌐 JavaScript | 📅 2026-07-07: Generate CloudFormation / Terraform / Troposphere templates from your existing AWS resource
-* [org-formation](https://github.com/OlafConijn/AwsOrganizationFormation) ⭐ 1,490 | 🐛 99 | 🌐 TypeScript | 📅 2026-01-19: a tool that helps you write CloudFormation for your AWS Organization resources and create links between regular cloudformation resources across your accounts and regions.
+* [org-formation](https://github.com/OlafConijn/AwsOrganizationFormation) ⭐ 1,491 | 🐛 99 | 🌐 TypeScript | 📅 2026-01-19: a tool that helps you write CloudFormation for your AWS Organization resources and create links between regular cloudformation resources across your accounts and regions.
 * [AWSConsoleRecorder](https://github.com/iann0036/AWSConsoleRecorder) ⚠️ Archived: Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
-* [cfn-guard](https://github.com/aws-cloudformation/cloudformation-guard) ⭐ 1,390 | 🐛 58 | 🌐 Rust | 📅 2026-09-14: A set of tools to check AWS CloudFormation templates for policy compliance using a simple, policy-as-code, declarative syntax
+* [cfn-guard](https://github.com/aws-cloudformation/cloudformation-guard) ⭐ 1,390 | 🐛 56 | 🌐 Rust | 📅 2026-09-14: A set of tools to check AWS CloudFormation templates for policy compliance using a simple, policy-as-code, declarative syntax
 * [cfn\_nag](https://github.com/stelligent/cfn_nag) ⭐ 1,313 | 🐛 84 | 🌐 Ruby | 📅 2024-08-01: The cfn-nag tool looks for patterns in CloudFormation templates that may indicate insecure infrastructure.
 * [taskcat](https://github.com/aws-quickstart/taskcat) ⭐ 1,204 | 🐛 42 | 🌐 Python | 📅 2026-07-24: taskcat is a tool that tests AWS CloudFormation templates. It deploys your AWS CloudFormation template in multiple AWS Regions and generates a report with a pass/fail grade for each region.
 * [cfn-diagram](https://github.com/ljacobsson/cfn-diagram) ⭐ 1,021 | 🐛 38 | 🌐 JavaScript | 📅 2024-04-19: CLI tool to visualise CloudFormation/SAM/CDK templates as diagrams.
-* [Visual Studio Code extension](https://github.com/aws-cloudformation/aws-cfn-lint-visual-studio-code) ⭐ 289 | 🐛 46 | 🌐 JavaScript | 📅 2026-10-13: CloudFormation Linter integration, autocompletion, reference documentation links on hover
+* [Visual Studio Code extension](https://github.com/aws-cloudformation/aws-cfn-lint-visual-studio-code) ⭐ 289 | 🐛 46 | 🌐 JavaScript | 📅 2026-10-14: CloudFormation Linter integration, autocompletion, reference documentation links on hover
 * [cfn flip](https://cfnflip.com/): a tool that converts AWS CloudFormation templates between JSON and YAML formats.
 * [cfsec](https://cfsec.dev): CloudFormation static analysis to identify potential misconfigurations before they reach production.
 
@@ -75,7 +75,7 @@ This section contains tools which have been designed to improve the experience o
 * [sceptre](https://github.com/Sceptre/sceptre) ⭐ 1,534 | 🐛 26 | 🌐 Python | 📅 2026-10-12: Sceptre is a tool to drive AWS CloudFormation. It automates the mundane, repetitive and error-prone tasks, enabling you to concentrate on building better infrastructure.
 * [rain](https://github.com/aws-cloudformation/rain) ⚠️ Archived: A command line tool for working with AWS CloudFormation. It has tools for creating, comparing, and formatting templates and a pleasant CLI experience for creating, updating, and deleting stacks.
 * [stacker](https://github.com/cloudtools/stacker) ⭐ 707 | 🐛 79 | 🌐 Python | 📅 2023-11-28: An AWS CloudFormation Stack orchestrator/manager.
-* [cfn-teleport](https://github.com/udondan/cfn-teleport) ⭐ 102 | 🐛 9 | 🌐 Rust | 📅 2026-10-13: A command-line tool which can move CloudFormation resources between stacks.
+* [cfn-teleport](https://github.com/udondan/cfn-teleport) ⭐ 102 | 🐛 3 | 🌐 Rust | 📅 2026-10-14: A command-line tool which can move CloudFormation resources between stacks.
 * [stackup](https://github.com/realestate-com-au/stackup) ⭐ 98 | 🐛 11 | 🌐 Ruby | 📅 2025-02-27: Stackup provides a CLI and a simplified Ruby API for dealing with AWS CloudFormation stacks.
 * [awscfncli](https://github.com/Kotaimen/awscfncli) ⭐ 58 | 🐛 27 | 🌐 Python | 📅 2023-11-24: awscfncli helps build and manage complex AWS CloudFormation stacks.
 * [cfn-teardown](https://github.com/nirdosh17/cfn-teardown) ⭐ 17 | 🐛 0 | 🌐 Go | 📅 2024-08-15: Cleanup CloudFormation stacks respecting the order of dependencies.
@@ -84,8 +84,8 @@ This section contains tools which have been designed to improve the experience o
 
 If you prefer imperative coding, or just using your favourite programming language, the following projects are intended to abstract the creation of AWS CloudFormation templates.
 
-* [aws-cdk](https://github.com/aws/aws-cdk) ⭐ 12,935 | 🐛 2,894 | 🌐 TypeScript | 📅 2026-10-13: The AWS Cloud Development Kit (AWS CDK) is an open-source software development framework to define cloud infrastructure in code and provision it through AWS CloudFormation.
-* [serverless-application-model](https://github.com/awslabs/serverless-application-model) ⭐ 9,576 | 🐛 120 | 🌐 Python | 📅 2026-10-13: The AWS Serverless Application Model (SAM) is an open-source framework for building serverless applications. It provides shorthand syntax to express functions, APIs, databases, and event source mappings. With just a few lines of configuration, you can define the application you want and model it.
+* [aws-cdk](https://github.com/aws/aws-cdk) ⭐ 12,938 | 🐛 2,895 | 🌐 TypeScript | 📅 2026-10-14: The AWS Cloud Development Kit (AWS CDK) is an open-source software development framework to define cloud infrastructure in code and provision it through AWS CloudFormation.
+* [serverless-application-model](https://github.com/awslabs/serverless-application-model) ⭐ 9,576 | 🐛 120 | 🌐 Python | 📅 2026-10-14: The AWS Serverless Application Model (SAM) is an open-source framework for building serverless applications. It provides shorthand syntax to express functions, APIs, databases, and event source mappings. With just a few lines of configuration, you can define the application you want and model it.
 * [eksctl](https://github.com/weaveworks/eksctl) ⭐ 5,215 | 🐛 114 | 🌐 Go | 📅 2026-10-09: A CLI tool that uses CloudFormation to create clusters on EKS.
 * [troposphere (Python)](https://github.com/cloudtools/troposphere) ⭐ 4,942 | 🐛 163 | 🌐 Python | 📅 2026-10-09: The troposphere library allows for easier creation of the AWS CloudFormation JSON by writing Python code to describe the AWS resources. troposphere also includes some basic support for OpenStack resources via Heat.
 * [OpenJS Architect](https://github.com/architect/architect) ⭐ 2,626 | 🐛 61 | 🌐 JavaScript | 📅 2026-09-05: Generate AWS CloudFormation and AWS Serverless Application Model code from a very terse and friendly high level manifest file written in `JSON`, `YAML`, `TOML` or `.arc` format
@@ -166,4 +166,4 @@ This sample code is made available under a modified MIT license. See the LICENSE
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
