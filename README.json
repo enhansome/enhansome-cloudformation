@@ -21,7 +21,7 @@
                 "open_issues": 5,
                 "owner": "aws-cloudformation",
                 "repo": "aws-cloudformation-templates",
-                "stars": 5223,
+                "stars": 5222,
                 "topics": [
                   "aws-cloudformation",
                   "cloudformation-template"
@@ -166,8 +166,8 @@
             "id": 129005655,
             "language": "Python",
             "license": "MIT-0",
-            "last_commit": "2026-10-15T21:26:10Z",
-            "open_issues": 111,
+            "last_commit": "2026-10-17T09:10:39Z",
+            "open_issues": 112,
             "owner": "aws-cloudformation",
             "repo": "cfn-lint",
             "stars": 2643,
@@ -288,8 +288,8 @@
             "id": 271888852,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T17:29:18Z",
-            "open_issues": 56,
+            "last_commit": "2026-10-17T11:30:28Z",
+            "open_issues": 57,
             "owner": "aws-cloudformation",
             "repo": "cloudformation-guard",
             "stars": 1390,
@@ -414,7 +414,7 @@
             "id": 131912342,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T16:09:16Z",
+            "last_commit": "2026-10-17T08:09:30Z",
             "open_issues": 46,
             "owner": "aws-cloudformation",
             "repo": "cfn-lint-visual-studio-code",
@@ -482,7 +482,7 @@
             "open_issues": 107,
             "owner": "aws-cloudformation",
             "repo": "rain",
-            "stars": 952,
+            "stars": 951,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:39.805Z"
@@ -524,7 +524,7 @@
             "id": 609128469,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T17:47:31Z",
+            "last_commit": "2026-10-17T01:34:31Z",
             "open_issues": 3,
             "owner": "udondan",
             "repo": "cfn-teleport",
@@ -639,7 +639,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-16T17:23:57Z",
-            "open_issues": 2924,
+            "open_issues": 2925,
             "owner": "aws",
             "repo": "aws-cdk",
             "stars": 12941,
@@ -1347,7 +1347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T18:49:53.176Z",
+    "last_updated": "2026-10-17T17:52:11.629Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources and projects for working with AWS CloudFormation.",
