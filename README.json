@@ -166,11 +166,11 @@
             "id": 129005655,
             "language": "Python",
             "license": "MIT-0",
-            "last_commit": "2026-11-04T20:31:11Z",
-            "open_issues": 166,
+            "last_commit": "2026-11-05T20:12:59Z",
+            "open_issues": 167,
             "owner": "aws-cloudformation",
             "repo": "cfn-lint",
-            "stars": 2647,
+            "stars": 2646,
             "topics": [
               "aws",
               "aws-cloudformation",
@@ -414,11 +414,11 @@
             "id": 131912342,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T16:15:45Z",
+            "last_commit": "2026-11-05T17:08:52Z",
             "open_issues": 46,
             "owner": "aws-cloudformation",
             "repo": "cfn-lint-visual-studio-code",
-            "stars": 289,
+            "stars": 290,
             "topics": [
               "aws",
               "aws-cloudformation",
@@ -482,7 +482,7 @@
             "open_issues": 107,
             "owner": "aws-cloudformation",
             "repo": "rain",
-            "stars": 951,
+            "stars": 949,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:39.805Z"
@@ -524,7 +524,7 @@
             "id": 609128469,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T18:47:04Z",
+            "last_commit": "2026-11-05T00:00:06Z",
             "open_issues": 4,
             "owner": "udondan",
             "repo": "cfn-teleport",
@@ -638,8 +638,8 @@
             "id": 105808767,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T19:28:37Z",
-            "open_issues": 2946,
+            "last_commit": "2026-11-05T18:10:00Z",
+            "open_issues": 2942,
             "owner": "aws",
             "repo": "aws-cdk",
             "stars": 12962,
@@ -699,7 +699,7 @@
             "open_issues": 104,
             "owner": "eksctl-io",
             "repo": "eksctl",
-            "stars": 5217,
+            "stars": 5218,
             "topics": [
               "amazon-web-services",
               "aws-cloudformation",
@@ -730,7 +730,7 @@
             "open_issues": 161,
             "owner": "cloudtools",
             "repo": "troposphere",
-            "stars": 4941,
+            "stars": 4940,
             "topics": [
               "aws-cloudformation",
               "cloudformation",
@@ -1347,7 +1347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T21:20:31.515Z",
+    "last_updated": "2026-11-05T21:28:59.903Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources and projects for working with AWS CloudFormation.",
