@@ -167,10 +167,10 @@
             "language": "Python",
             "license": "MIT-0",
             "last_commit": "2026-11-07T09:24:28Z",
-            "open_issues": 161,
+            "open_issues": 163,
             "owner": "aws-cloudformation",
             "repo": "cfn-lint",
-            "stars": 2644,
+            "stars": 2643,
             "topics": [
               "aws",
               "aws-cloudformation",
@@ -292,7 +292,7 @@
             "open_issues": 57,
             "owner": "aws-cloudformation",
             "repo": "cloudformation-guard",
-            "stars": 1394,
+            "stars": 1395,
             "topics": [
               "cfn-guard",
               "cloudformation",
@@ -524,7 +524,7 @@
             "id": 609128469,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-07T08:09:31Z",
+            "last_commit": "2026-11-08T16:46:12Z",
             "open_issues": 3,
             "owner": "udondan",
             "repo": "cfn-teleport",
@@ -639,10 +639,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-11-06T16:36:21Z",
-            "open_issues": 2935,
+            "open_issues": 2938,
             "owner": "aws",
             "repo": "aws-cdk",
-            "stars": 12969,
+            "stars": 12971,
             "topics": [
               "aws",
               "cloud-infrastructure",
@@ -696,7 +696,7 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2026-11-04T18:57:57Z",
-            "open_issues": 104,
+            "open_issues": 100,
             "owner": "eksctl-io",
             "repo": "eksctl",
             "stars": 5218,
@@ -1347,7 +1347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T19:28:40.126Z",
+    "last_updated": "2026-11-08T19:44:09.557Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources and projects for working with AWS CloudFormation.",
